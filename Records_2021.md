@@ -1,0 +1,116 @@
+# Daily Record of Study (2021)
+<br>
+> 2021/02/11 Records_2021.md 최초 작성<br>
+<br>
+
+
+## 2021/02
+<details value="보기">
+<summary>Details</summary>
+<div markdown="1">
+
+### 2021/02/11
+- BOJ 2630 분할정복
+
+</div>
+</details>
+
+---
+
+<!--
+
+## 2021/03
+<details value="보기">
+<summary>Details</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+## 2021/04
+<details value="보기">
+<summary>Details</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+## 2021/05
+<details value="보기">
+<summary>Details</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+## 2021/06
+
+<details>
+<summary>Details</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+## 2021/07
+
+<details>
+<summary>Details</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+## 2021/08
+
+<details>
+<summary>Details</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+## 2021/10
+
+<details>
+<summary>Details</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+## 2021/11
+
+<details>
+<summary>Details</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+## 2021/12
+
+<details>
+<summary>Details</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+-->
