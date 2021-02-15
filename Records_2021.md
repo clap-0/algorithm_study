@@ -35,6 +35,7 @@
 
 ### 2021/02/15
 - BOJ 1699 DP
+- BOJ 11726 DP
 
 </div>
 </details>
