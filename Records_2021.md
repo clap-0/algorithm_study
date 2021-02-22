@@ -67,6 +67,7 @@
 
 ### 2021/02/22
 - BOJ 11724 DFS
+- BOJ 1743 DFS
 
 </div>
 </details>
