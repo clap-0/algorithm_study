@@ -71,6 +71,9 @@
 - BOJ 2667 DFS
 - BOJ 2150 SCC
 
+### 2021/02/23
+- BOJ 1629 분할정복
+
 </div>
 </details>
 
