@@ -78,6 +78,7 @@
 ### 2021/02/24
 - BOJ 10870 DP
 - BOJ 1991 트리
+- BOJ 11725 BFS
 
 </div>
 </details>
