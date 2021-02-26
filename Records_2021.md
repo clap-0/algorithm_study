@@ -84,6 +84,9 @@
 - BOJ 1260 DFS/BFS
 - BOJ 4803 DFS
 
+### 2021/02/26
+- BOJ 1018 브루트포스
+
 </div>
 </details>
 
