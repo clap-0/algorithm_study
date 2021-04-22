@@ -12,41 +12,38 @@ struct Comparator {
     return group[a+t] < group[b+t];
   }
 };
-vector<int> getSuffixArray(string &s)
+int main()
 {
+  ios_base::sync_with_stdio(false);
+  cin.tie(0);
+  string s;
+  cin >> s;
+
   int n=s.size(), t=1;
-  vector<int> group(n+1), perm(n);
+  vector<int> group(n+1), sa(n);
   for(int i=0; i<n; i++){
     group[i]=s[i];
-    perm[i]=i;
+    sa[i]=i;
   }
   group[n]=-1;
   while(t<n){
     Comparator cmpUsing2t(group, t);
-    sort(perm.begin(), perm.end(), cmpUsing2t);
+    sort(sa.begin(), sa.end(), cmpUsing2t);
     if((t*=2)>=n) break;
     vector<int> newGroup(n+1, 0);
     newGroup[n]=-1;
     for(int i=0; i<n-1; i++)
-      newGroup[perm[i+1]]=newGroup[perm[i]]+cmpUsing2t(perm[i], perm[i+1]);
+      newGroup[sa[i+1]]=newGroup[sa[i]]+cmpUsing2t(sa[i], sa[i+1]);
     group=newGroup;
   }
-  return perm;
-}
-int commonPrefix(string &s, int a, int b){
-  int ret=0, n=s.size();
-  while(a<n && b<n && s[a]==s[b]){
-    a++; b++; ret++;
+  for(int i=0; i<n; i++) cout << sa[i]+1 << ' '; cout <<'\n';
+
+  vector<int> lcp(n);
+  for(int i=0, k=0; i<n; i++, k=max(k-1, 0)){
+    if(group[i] == n-1) continue;
+    for(int j=sa[group[i]+1]; s[i+k]==s[j+k]; k++);
+    lcp[group[i]]=k;
   }
-  return ret;
-}
-int main()
-{
-  string s;
-  vector<int> suffixArr;
-  cin >> s;
-  suffixArr = getSuffixArray(s);
-  for(auto &p : suffixArr) cout << p+1 << ' ';
-  cout << "\nx ";
-  for(int i=1; i<s.size(); i++) cout << commonPrefix(s, suffixArr[i-1], suffixArr[i]) << ' ';
+  cout << "x ";
+  for(int i=0; i<n-1; i++) cout << lcp[i] << ' ';
 }
