@@ -377,6 +377,9 @@
 - BOJ 1170 BCC
 - BOJ 1506 SCC
 
+### 2021/05/15
+- BOJ 6543 SCC
+
 </div>
 </details>
 
