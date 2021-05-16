@@ -381,6 +381,9 @@
 - BOJ 6543 SCC
 - BOJ 3977 SCC
 
+### 2021/05/16
+- BOJ 11280 2-SAT
+
 </div>
 </details>
 
