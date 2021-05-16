@@ -41,8 +41,10 @@ int main()
   for(int cnt=0; cnt<m; cnt++){
     int i, j;
     cin >> i >> j;
+    //x_k : 2*(k-1), not_x_k : 2*(k-1)+1
     i = i>0 ? 2*(i-1) : 2*(-i-1)+1;
     j = j>0 ? 2*(j-1) : 2*(-j-1)+1;
+    //절의 두 변수 중 하나가 거짓이면 다른 하나는 참이어야 함
     adj[Not(i)].push_back(j);
     adj[Not(j)].push_back(i);
   }
@@ -50,8 +52,7 @@ int main()
   for(int i=0; i<n*2; i++)
     if(!discovered[i]) tarjanSCC(i);
   
-  //x와 not_x가 같은 SCC에 있을 경우
-  //x가 참일 때 not_x도 참이여야 하므로 모순
+  //x와 not_x가 같은 SCC에 있을 경우 모순
   bool sat=true;
   for(int i=0; i<n*2; i+=2){
     int j=i+1;
