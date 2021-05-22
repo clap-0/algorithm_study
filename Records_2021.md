@@ -402,7 +402,7 @@
 - BOJ 3648 2-SAT
   
 ### 2021/05/22
-- BOJ 15783 2-SAT
+- BOJ 15783 SCC
 
 </div>
 </details>
