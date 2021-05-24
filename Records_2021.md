@@ -410,6 +410,9 @@
 - BOJ 12851 BFS
 - BOJ 13913 BFS
 
+### 2021/05/24
+- BOJ 4196 SCC
+
 </div>
 </details>
 
