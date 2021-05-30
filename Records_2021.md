@@ -433,6 +433,7 @@
 - BOJ 1525 BFS
 - BOJ 17127 브루트포스
 - BOJ 17128 구현
+- BOJ 17129 BFS
 
 </div>
 </details>
