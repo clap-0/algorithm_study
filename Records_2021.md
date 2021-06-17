@@ -510,6 +510,9 @@
   
 ### 2021/06/16
 - BOJ 1944 MST
+  
+### 2021/06/17
+- BOJ [6086](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/6086_%EC%B5%9C%EB%8C%80%EC%9C%A0%EB%9F%89.cpp) 최대유량
 
 </div>
 </details>
