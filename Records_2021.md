@@ -513,6 +513,9 @@
   
 ### 2021/06/17
 - BOJ [6086](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/6086_%EC%B5%9C%EB%8C%80%EC%9C%A0%EB%9F%89.cpp) 최대유량
+  
+### 2021/06/18
+- BOJ [2188](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/2188_%EC%B6%95%EC%82%AC%EB%B0%B0%EC%A0%95.cpp) 최대유량
 
 </div>
 </details>
