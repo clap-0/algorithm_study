@@ -531,6 +531,9 @@
   
 ### 2021/06/22
 - BOJ [17412](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/17412_%EB%8F%84%EC%8B%9C%EC%99%95%EB%B3%B5%ED%95%98%EA%B8%B01.cpp) 최대유량
+  
+### 2021/06/23
+- BOJ [2303](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/2303_%EC%88%AB%EC%9E%90%EA%B2%8C%EC%9E%84.cpp) 브루트포스
 
 </div>
 </details>
