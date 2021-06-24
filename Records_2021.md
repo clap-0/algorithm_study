@@ -534,6 +534,9 @@
   
 ### 2021/06/23
 - BOJ [2303](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/2303_%EC%88%AB%EC%9E%90%EA%B2%8C%EC%9E%84.cpp) 브루트포스
+  
+### 2021/06/24
+- BOJ [14889](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/14889_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%EB%A7%81%ED%81%AC.cpp) 백트래킹
 
 </div>
 </details>
