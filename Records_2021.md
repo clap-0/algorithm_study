@@ -538,6 +538,7 @@
 ### 2021/06/24
 - BOJ [14889](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/14889_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%EB%A7%81%ED%81%AC.cpp) 백트래킹
   
+### 2021/06/25
 - BOJ [15686](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/15686_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.cpp) 브루트포스
 
 </div>
