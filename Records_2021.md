@@ -540,6 +540,9 @@
   
 ### 2021/06/25
 - BOJ [15686](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/15686_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.cpp) 브루트포스
+  
+### 2021/06/26
+- BOJ [2468](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/2468_%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.cpp) 브루트포스/DFS
 
 </div>
 </details>
