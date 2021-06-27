@@ -546,6 +546,7 @@
   
 ### 2021/06/27
 - BOJ [14503](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/14503_%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0.cpp) 구현/시뮬레이션
+- AOJ [PICNIC](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/AOJ/PICNIC.cpp) 브루트포스
 
 </div>
 </details>
