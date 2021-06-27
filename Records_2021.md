@@ -548,6 +548,7 @@
 - BOJ [14503](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/14503_%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0.cpp) 구현/시뮬레이션
 - AOJ [PICNIC](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/AOJ/PICNIC.cpp) 브루트포스
 - AOJ [BOARDCOVER](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/AOJ/BOARDCOVER.cpp) 브루트포스
+- BOJ [14500](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/14500_테트로미노.cpp) 브루트포스
 
 </div>
 </details>
