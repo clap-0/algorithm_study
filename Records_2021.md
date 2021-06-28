@@ -549,6 +549,9 @@
 - AOJ [PICNIC](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/AOJ/PICNIC.cpp) 브루트포스
 - AOJ [BOARDCOVER](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/AOJ/BOARDCOVER.cpp) 브루트포스
 - BOJ [14500](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/14500_테트로미노.cpp) 브루트포스
+  
+### 2021/06/28
+- BOJ [1062](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/1062_%EA%B0%80%EB%A5%B4%EC%B9%A8.cpp) 브루트포스
 
 </div>
 </details>
