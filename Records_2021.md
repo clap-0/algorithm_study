@@ -552,6 +552,9 @@
   
 ### 2021/06/28
 - BOJ [1062](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/1062_%EA%B0%80%EB%A5%B4%EC%B9%A8.cpp) 브루트포스
+  
+### 2021/06/29
+- BOJ [2447](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/2447_%EB%B3%84%EC%B0%8D%EA%B8%B0-10.cpp) 분할정복
 
 </div>
 </details>
