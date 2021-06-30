@@ -556,6 +556,9 @@
 ### 2021/06/29
 - BOJ [2447](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/2447_%EB%B3%84%EC%B0%8D%EA%B8%B0-10.cpp) 분할정복
 - BOJ [10830](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/10830_%ED%96%89%EB%A0%AC%EC%A0%9C%EA%B3%B1.cpp) 분할정복
+  
+### 2021/06/30
+- BOJ [10819](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/10819_%EC%B0%A8%EC%9D%B4%EB%A5%BC%EC%B5%9C%EB%8C%80%EB%A1%9C.cpp) 브루트포스/백트래킹
 
 </div>
 </details>
