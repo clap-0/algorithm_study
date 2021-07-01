@@ -570,7 +570,9 @@
 <div markdown="1">
 
 ### 2021/07/01
-- BOJ [2316](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/2316_%EB%8F%84%EC%8B%9C%EC%99%95%EB%B3%B5%ED%95%98%EA%B8%B02.cpp) 최대유량
+  - BOJ [2316](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/2316_%EB%8F%84%EC%8B%9C%EC%99%95%EB%B3%B5%ED%95%98%EA%B8%B02.cpp) 최대유량
+  - AOJ [FENCE](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/AOJ/FENCE.cpp) 분할정복
+
 
 </div>
 </details>
