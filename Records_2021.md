@@ -573,6 +573,8 @@
   - BOJ [2316](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/BOJ/2316_%EB%8F%84%EC%8B%9C%EC%99%95%EB%B3%B5%ED%95%98%EA%B8%B02.cpp) 최대유량
   - AOJ [FENCE](https://github.com/Sooyeong-Park/algorithm_study/blob/main/Sources/AOJ/FENCE.cpp) 분할정복
 
+### 2021/07/02
+  - BOJ [1725](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1725_%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8.cpp) 분할정복
 
 </div>
 </details>
