@@ -1,37 +1,25 @@
-#include <iostream>
-#include <vector>
+#include <cstdio>
 #include <cstring>
+#include <algorithm>
 using namespace std;
-int n;
-int cache[1001];
-vector<int> a(1000);
-vector<int> seq;
-int lis(int here){
-  int& ret=cache[here];
+int N;
+int A[1000], cache[1001];
+//DP를 이용하여 가장 긴 증가하는 부분수열 구하기
+int lis(int start){
+  //메모이제이션
+  int& ret = cache[start+1];
   if(ret!=-1) return ret;
   ret=0;
-  int last = seq.back();
-  for(int i=here+1; i<n; i++){
-    if(a[i] > last){
-      seq.push_back(a[i]);
-      ret=max(ret, lis(i));
-      seq.pop_back();
-    }
-  }
-  return ++ret;
+  //start 이후의 수 중 A[start]보다 큰 수에서 재귀호출한다
+  for(int next=start+1; next<N; next++)
+    if(start==-1 || A[start]<A[next])
+      ret = max(ret, lis(next)+1);
+  return ret;
 }
 int main()
 {
-  cin >> n;
-  for(int i=0; i<n; i++)
-    cin >> a[i];
+  scanf("%d", &N);
+  for(int i=0; i<N; i++) scanf("%d", &A[i]);
   memset(cache, -1, sizeof(cache));
-  int ret=0;
-  for(int i=0; i<n; i++){
-    seq.push_back(a[i]);
-    ret=max(ret, lis(i));
-    seq.pop_back();
-  }
-  cout << ret << endl;
-  return 0;
+  printf("%d\n", lis(-1));
 }
