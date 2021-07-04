@@ -582,6 +582,7 @@
   
 ### 2021/07/04
   - BOJ [9507](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9507_GenerationsofTribbles.cpp) DP
+  - BOJ [15486](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15486_%ED%87%B4%EC%82%AC2.cpp) DP
 
 </div>
 </details>
