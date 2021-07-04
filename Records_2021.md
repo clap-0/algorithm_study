@@ -584,6 +584,7 @@
   - BOJ [9507](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9507_GenerationsofTribbles.cpp) DP
   - BOJ [15486](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15486_%ED%87%B4%EC%82%AC2.cpp) DP
   - BOJ [11053](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11053_%EA%B0%80%EC%9E%A5%EA%B8%B4%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.cpp) DP (Updated)
+  - BOJ [11722](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11722_%EA%B0%80%EC%9E%A5%EA%B8%B4%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.cpp) DP
 
 </div>
 </details>
