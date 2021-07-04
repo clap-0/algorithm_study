@@ -586,6 +586,7 @@
   - BOJ [11053](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11053_%EA%B0%80%EC%9E%A5%EA%B8%B4%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.cpp) DP (Updated)
   - BOJ [11722](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11722_%EA%B0%80%EC%9E%A5%EA%B8%B4%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.cpp) DP
   - BOJ [14002](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14002_%EA%B0%80%EC%9E%A5%EA%B8%B4%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B44.cpp) DP
+  - BOJ [11054](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11054_%EA%B0%80%EC%9E%A5%EA%B8%B4%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.cpp) DP
 
 </div>
 </details>
