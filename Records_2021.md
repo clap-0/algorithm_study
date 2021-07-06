@@ -591,6 +591,9 @@
 ### 2021/07/05
   - BOJ [1520](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1520_%EB%82%B4%EB%A6%AC%EB%A7%89%EA%B8%B8.cpp) DP
 
+### 2021/07/06
+  - BOJ [15988](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15988_1%2C2%2C3%EB%8D%94%ED%95%98%EA%B8%B03.cpp) DP
+
 </div>
 </details>
 
