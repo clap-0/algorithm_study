@@ -600,6 +600,9 @@
   
 ### 2021/07/08
   - BOJ [11066](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11066_%ED%8C%8C%EC%9D%BC%ED%95%A9%EC%B9%98%EA%B8%B0.cpp) DP
+  
+### 2021/07/09
+  - BOJ [12865](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12865_%ED%8F%89%EB%B2%94%ED%95%9C%EB%B0%B0%EB%82%AD.cpp) DP
 
 </div>
 </details>
