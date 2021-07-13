@@ -618,6 +618,8 @@
   
 ### 2021/07/13
   - BOJ [9658](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9658_%EB%8F%8C%EA%B2%8C%EC%9E%844.cpp) DP
+  - BOJ [9659](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9659_%EB%8F%8C%EA%B2%8C%EC%9E%845.cpp) 수학
+  
   
 </div>
 </details>
