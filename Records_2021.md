@@ -642,6 +642,7 @@
   
  ### 2021/07/19
   - AOJ [STRJOIN](https://github.com/clap-0/algorithm_study/blob/main/Sources/AOJ/STRJOIN.cpp) 그리디
+  - BOJ [1563](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1563_%EA%B0%9C%EA%B7%BC%EC%83%81.cpp) DP
   
 </div>
 </details>
