@@ -640,6 +640,9 @@
   - AOJ [MATCHORDER](https://github.com/clap-0/algorithm_study/blob/main/Sources/AOJ/MATCHORDER.cpp) 그리디
   - AOJ [LUNCHBOX](https://github.com/clap-0/algorithm_study/blob/main/Sources/AOJ/LUNCHBOX.cpp) 그리디
   
+ ### 2021/07/19
+  - AOJ [STRJOIN](https://github.com/clap-0/algorithm_study/blob/main/Sources/AOJ/STRJOIN.cpp) 그리디
+  
 </div>
 </details>
 
