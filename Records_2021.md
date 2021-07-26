@@ -667,6 +667,9 @@
   - BOJ [2602](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2602_%EB%8F%8C%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0.cpp) DP
   - BOJ [14621](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14621_%EB%82%98%EB%A7%8C%EC%95%88%EB%90%98%EB%8A%94%EC%97%B0%EC%95%A0.cpp) MST
   
+### 2021/07/26
+  - BOJ [9252](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9252_LCS2.cpp) DP
+  
 </div>
 </details>
 
