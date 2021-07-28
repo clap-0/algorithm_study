@@ -677,6 +677,7 @@
   
 ### 2021/07/28
   - BOJ [14567](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14567_%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9(Prerequisite).cpp) 위상정렬
+  - BOJ [20500](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20500_Ezreal%EC%97%AC%EB%88%88%EB%B6%80%ED%84%B0%EA%B0%80%EB%84%A4%E3%85%88%E3%85%88.cpp) DP
   
 </div>
 </details>
