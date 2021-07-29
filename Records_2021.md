@@ -681,6 +681,7 @@
   
 ### 2021/07/29
   - BOJ [17069](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17069_%ED%8C%8C%EC%9D%B4%ED%94%84%EC%98%AE%EA%B8%B0%EA%B8%B02.cpp) DP
+  - BOJ [2467](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2467_%EC%9A%A9%EC%95%A1.cpp) 투포인터
   
 </div>
 </details>
