@@ -692,8 +692,6 @@
 </div>
 </details>
 
-<!--
-
 ---
 
 ## 2021/08
@@ -701,11 +699,16 @@
 <details>
 <summary>Details</summary>
 <div markdown="1">
+  
+### 2021/08/01
+  - BOJ [2157](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2157_%EC%97%AC%ED%96%89.cpp) DP
 
 </div>
 </details>
 
 ---
+
+<!--
 
 ## 2021/10
 
