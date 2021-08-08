@@ -717,6 +717,9 @@
   
 ### 2021/08/07
   - BOJ [2293](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2293_%EB%8F%99%EC%A0%841.cpp) DP/슬라이딩윈도우
+  
+### 2021/08/08
+  - BOJ [17130](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17130_%ED%86%A0%EB%81%BC%EA%B0%80%EC%A0%95%EB%B3%B4%EC%84%AC%EC%97%90%EC%98%AC%EB%9D%BC%EC%98%A8%EC%9D%B4%EC%9C%A0.cpp) DP
 
 </div>
 </details>
