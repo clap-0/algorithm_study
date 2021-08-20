@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cstring>
 using namespace std;
 const int UP_2=0, DOWN=1, UP=2, DOWN_2=3;
 int dp[101][10][4];
@@ -18,10 +17,10 @@ int main()
     if(i!=0) dp[2][i][UP]=1;
     if(i!=9) dp[2][i][DOWN]=1;
   }
-  for(int pos=3; pos<=N; pos++){
-    for(int num=0; num<10; num++){
+  for(int pos=3; pos<=N; pos++)
+    for(int num=0; num<10; num++)
       for(int i=0; i<4; i++){
-        if((num==0&&(i%2==0)) || (num==1&&(i==UP_2)) || (num==8&&(i==DOWN_2)) || (num==9&&(i%2==1))) continue;
+        if((num==0&&(i%2==0)) || (num==9&&(i%2==1))) continue;
         int& curr=dp[pos][num][i];
         switch(i){
           case UP_2: 
@@ -38,8 +37,6 @@ int main()
           break;
         }
       }
-    }
-  }
   int ans=0;
   for(int num=0; num<10; num++)
     for(int i=0; i<4; i++){
