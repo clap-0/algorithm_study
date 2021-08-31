@@ -790,6 +790,9 @@
 ### 2021/08/30
   - BOJ [14863](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14863_%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%EA%B2%BD%EC%82%B0%EA%B9%8C%EC%A7%80.cpp) DP
   
+### 2021/08/31
+  - BOJ [2342](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2342_DanceDanceRevolution.cpp) DP
+  
 </div>
 </details>
 
