@@ -798,18 +798,21 @@
 
 ---
 
-<!--
-
 ## 2021/10
 
 <details>
 <summary>Details</summary>
 <div markdown="1">
+  
+### 2021/09/01
+  - BOJ [14267](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14267_%ED%9A%8C%EC%82%AC%EB%AC%B8%ED%99%941.cpp) DP
 
 </div>
 </details>
 
 ---
+
+<!--
 
 ## 2021/11
 
