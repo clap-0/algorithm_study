@@ -824,6 +824,10 @@
   
 ### 2021/09/07
   - BOJ [16509](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16509_%EC%9E%A5%EA%B5%B0.cpp) BFS
+  
+### 2021/09/08
+  - BOJ [1011](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1011_FlymetotheAlphaCentauri.cpp) 수학
+  
 </div>
 </details>
 
