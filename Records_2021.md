@@ -828,6 +828,9 @@
 ### 2021/09/08
   - BOJ [1011](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1011_FlymetotheAlphaCentauri.cpp) 수학
   
+### 2021/09/09
+  - BOJ [2624](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2624_%EB%8F%99%EC%A0%84%EB%B0%94%EA%BF%94%EC%A3%BC%EA%B8%B0.cpp) DP
+  
 </div>
 </details>
 
