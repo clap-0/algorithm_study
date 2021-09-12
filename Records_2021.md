@@ -837,6 +837,9 @@
 ### 2021/09/11
   - BOJ [10216](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10216_CountCircleGroups.cpp) 유니온파인드
   
+### 2021/09/12
+  - BOJ [14699](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14699_%EA%B4%80%EC%95%85%EC%82%B0%EB%93%B1%EC%82%B0.cpp) DP/그래프
+  
 </div>
 </details>
 
