@@ -843,6 +843,9 @@
 ### 2021/09/13
   - BOJ [1202](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1202_%EB%B3%B4%EC%84%9D%EB%8F%84%EB%91%91.cpp) 그리디
   
+### 2021/09/14
+  - BOJ [14925](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14925_%EB%AA%A9%EC%9E%A5%EA%B1%B4%EC%84%A4%ED%95%98%EA%B8%B0.cpp) DP
+  
 </div>
 </details>
 
