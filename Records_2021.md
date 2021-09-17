@@ -852,6 +852,9 @@
 ### 2021/09/16
   - BOJ [10422](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10422_%EA%B4%84%ED%98%B8.cpp) DP
   
+### 2021/09/17
+  - BOJ [18427](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18427_%ED%95%A8%EA%BB%98%EB%B8%94%EB%A1%9D%EC%8C%93%EA%B8%B0.cpp) DP
+  
 </div>
 </details>
 
