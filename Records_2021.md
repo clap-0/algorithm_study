@@ -861,6 +861,9 @@
 ### 2021/09/19
   - BOJ [16724](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16724_%ED%94%BC%EB%A6%AC%EB%B6%80%EB%8A%94%EC%82%AC%EB%82%98%EC%9D%B4.cpp) 유니온파인드
   
+### 2021/09/20
+  - BOJ [2073](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2073_%EC%88%98%EB%8F%84%EB%B0%B0%EA%B4%80%EA%B3%B5%EC%82%AC.cpp) DP
+  
 </div>
 </details>
 
