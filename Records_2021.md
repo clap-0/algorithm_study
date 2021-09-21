@@ -864,6 +864,9 @@
 ### 2021/09/20
   - BOJ [2073](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2073_%EC%88%98%EB%8F%84%EB%B0%B0%EA%B4%80%EA%B3%B5%EC%82%AC.cpp) DP
   
+### 2021/09/21
+  - BOJ [1027](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1027_%EA%B3%A0%EC%B8%B5%EA%B1%B4%EB%AC%BC.cpp) 브루트포스
+  
 </div>
 </details>
 
