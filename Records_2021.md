@@ -867,6 +867,9 @@
 ### 2021/09/21
   - BOJ [1027](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1027_%EA%B3%A0%EC%B8%B5%EA%B1%B4%EB%AC%BC.cpp) 브루트포스
   
+### 2021/09/22
+  - BOJ [3568](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3568_iSharp.cpp) 시뮬레이션
+  
 </div>
 </details>
 
