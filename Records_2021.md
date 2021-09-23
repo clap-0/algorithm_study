@@ -870,6 +870,9 @@
 ### 2021/09/22
   - BOJ [3568](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3568_iSharp.cpp) 시뮬레이션
   
+### 2021/09/23
+  - BOJ [14945](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14945_%EB%B6%88%EC%9E%A5%EB%82%9C.cpp) DP
+  
 </div>
 </details>
 
