@@ -885,6 +885,9 @@
 ### 2021/09/27
   - BOJ [2482](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2482_%EC%83%89%EC%83%81%ED%99%98.cpp) DP
   
+### 2021/09/28
+  - BOJ [2493](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2493_%ED%83%91.cpp) 스택
+  
 </div>
 </details>
 
