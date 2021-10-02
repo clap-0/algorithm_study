@@ -907,6 +907,9 @@
   
 ### 2021/10/01
   - BOJ [9711](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9711_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98.cpp) DP
+  
+### 2021/10/02
+  - BOJ [2473](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2473_%EC%84%B8%EC%9A%A9%EC%95%A1.cpp) 투포인터
 
 </div>
 </details>
