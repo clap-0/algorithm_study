@@ -910,6 +910,9 @@
   
 ### 2021/10/02
   - BOJ [2473](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2473_%EC%84%B8%EC%9A%A9%EC%95%A1.cpp) 투포인터
+  
+### 2021/10/03
+  - BOJ [15624](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15624_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%987.cpp) DP/수학
 
 </div>
 </details>
