@@ -916,6 +916,9 @@
   
 ### 2021/10/04
   - BOJ [5582](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/5582_%EA%B3%B5%ED%86%B5%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4.cpp) DP
+  
+### 2021/10/05
+  - BOJ [1788](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1788_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%9D%98%ED%99%95%EC%9E%A5.cpp) DP/수학
 
 </div>
 </details>
