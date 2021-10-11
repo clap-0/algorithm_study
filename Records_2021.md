@@ -935,6 +935,9 @@
   
 ### 2021/10/10
   - BOJ [2591](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2591_%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.cpp) DP
+  
+### 2021/10/11
+  - BOJ [22115](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22115_%EC%B0%BD%EC%98%81%EC%9D%B4%EC%99%80%EC%BB%A4%ED%94%BC.cpp) DP
 
 </div>
 </details>
