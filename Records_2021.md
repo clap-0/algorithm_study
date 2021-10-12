@@ -940,7 +940,7 @@
   - BOJ [22115](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22115_%EC%B0%BD%EC%98%81%EC%9D%B4%EC%99%80%EC%BB%A4%ED%94%BC.cpp) DP
   
 ### 2021/10/12
-  - BOJ [17256](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17256_%EB%8B%AC%EB%8B%AC%ED%95%A8%EC%9D%B4%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC.cpp) DP
+  - BOJ [17256](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17256_%EB%8B%AC%EB%8B%AC%ED%95%A8%EC%9D%B4%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC.cpp) 수학
 
 </div>
 </details>
