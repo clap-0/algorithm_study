@@ -942,6 +942,9 @@
 ### 2021/10/12
   - BOJ [17256](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17256_%EB%8B%AC%EB%8B%AC%ED%95%A8%EC%9D%B4%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC.cpp) 수학
   - BOJ [17262](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17262_%ED%8C%AC%EB%8D%A4%EC%9D%B4%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC.cpp) 그리디
+  
+### 2021/10/13
+  - BOJ [4358](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/4358_%EC%83%9D%ED%83%9C%ED%95%99.cpp) 해시
 
 </div>
 </details>
