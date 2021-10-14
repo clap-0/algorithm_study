@@ -946,6 +946,9 @@
 ### 2021/10/13
   - BOJ [4358](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/4358_%EC%83%9D%ED%83%9C%ED%95%99.cpp) 해시
 
+### 2021/10/14
+  - BOJ [15829](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15829_Hashing.cpp) 해시
+  
 </div>
 </details>
 
