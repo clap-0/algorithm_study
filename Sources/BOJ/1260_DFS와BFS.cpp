@@ -40,7 +40,7 @@ int main()
     adj[u].push_back(v);
     adj[v].push_back(u);
   }
-  for(int i=0; i<n; i++)
+  for(int i=1; i<=n; i++)
     sort(adj[i].begin(), adj[i].end());
   visited.resize(n+1, 0);
   dfs(v); cout << '\n';
