@@ -949,6 +949,9 @@
 ### 2021/10/14
   - BOJ [15829](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15829_Hashing.cpp) 해시
   
+### 2021/10/15
+  - BOJ [1260](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1260_DFS%EC%99%80BFS.cpp) DFS/BFS
+  
 </div>
 </details>
 
