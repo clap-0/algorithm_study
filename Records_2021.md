@@ -955,6 +955,9 @@
 ### 2021/10/16
   - BOJ [1405](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1405_%EB%AF%B8%EC%B9%9C%EB%A1%9C%EB%B4%87.cpp) 백트래킹/DFS
   
+### 2021/10/17
+  - BOJ [1240](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1240_%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%EA%B1%B0%EB%A6%AC.cpp) BFS
+  
 </div>
 </details>
 
