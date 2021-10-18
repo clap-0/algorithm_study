@@ -958,6 +958,9 @@
 ### 2021/10/17
   - BOJ [1240](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1240_%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%EA%B1%B0%EB%A6%AC.cpp) BFS
   
+### 2021/10/18
+  - BOJ [18310](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18310_%EC%95%88%ED%85%8C%EB%82%98.cpp) 그리디/정렬
+  
 </div>
 </details>
 
