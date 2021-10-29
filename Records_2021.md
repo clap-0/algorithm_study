@@ -991,6 +991,9 @@
 ### 2021/10/28
   - BOJ [17225](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17225_%EC%84%B8%ED%9B%88%EC%9D%B4%EC%9D%98%EC%84%A0%EB%AC%BC%EA%B0%80%EA%B2%8C.cpp) 우선순위큐
   
+### 2021/10/29
+  - BOJ [1966](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1966_%ED%94%84%EB%A6%B0%ED%84%B0%ED%81%90.cpp) 큐
+  
 </div>
 </details>
 
