@@ -993,6 +993,7 @@
   
 ### 2021/10/29
   - BOJ [1966](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1966_%ED%94%84%EB%A6%B0%ED%84%B0%ED%81%90.cpp) 큐
+  - PG [프린터](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%ED%94%84%EB%A6%B0%ED%84%B0.cpp) 큐
   
 </div>
 </details>
