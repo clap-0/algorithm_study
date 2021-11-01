@@ -1006,7 +1006,6 @@
 
 ---
 
-<!--
 
 ## 2021/11
 
@@ -1014,10 +1013,15 @@
 <summary>Details</summary>
 <div markdown="1">
 
+### 2021/11/01
+  - PG [다리를지나는트럭](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD.cpp) 큐
+  
 </div>
 </details>
 
 ---
+
+<!--
 
 ## 2021/12
 
