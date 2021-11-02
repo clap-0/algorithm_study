@@ -1016,6 +1016,9 @@
 ### 2021/11/01
   - PG [다리를지나는트럭](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD.cpp) 큐
   
+### 2021/11/02
+  - BOJ [2304](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2304_%EC%B0%BD%EA%B3%A0%EB%8B%A4%EA%B0%81%ED%98%95.cpp) 우선순위큐
+  
 </div>
 </details>
 
