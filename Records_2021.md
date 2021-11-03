@@ -1019,6 +1019,9 @@
 ### 2021/11/02
   - BOJ [2304](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2304_%EC%B0%BD%EA%B3%A0%EB%8B%A4%EA%B0%81%ED%98%95.cpp) 우선순위큐
   
+### 2021/11/03
+  - PG [주식가격](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.cpp) 스택
+  
 </div>
 </details>
 
