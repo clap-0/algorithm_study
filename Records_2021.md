@@ -1031,6 +1031,9 @@
 ### 2021/11/06
   - BOJ [11047](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11047_%EB%8F%99%EC%A0%840.cpp) 그리디
   
+### 2021/11/07
+  - PG [K번째수](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.cpp) 정렬
+  
 </div>
 </details>
 
