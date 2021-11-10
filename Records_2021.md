@@ -1042,6 +1042,7 @@
   
 ### 2021/11/10
   - PG [H-Index](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/H-Index.cpp) 정렬
+  - BOJ [1026](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1026_%EB%B3%B4%EB%AC%BC.cpp) 그리디
   
 </div>
 </details>
