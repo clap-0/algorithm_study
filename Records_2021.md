@@ -1044,6 +1044,9 @@
   - PG [H-Index](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/H-Index.cpp) 정렬
   - BOJ [1026](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1026_%EB%B3%B4%EB%AC%BC.cpp) 그리디
   
+### 2021/11/11
+  - PG [모의고사](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.cpp) 브루트포스
+  
 </div>
 </details>
 
