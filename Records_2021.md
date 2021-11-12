@@ -1047,6 +1047,9 @@
 ### 2021/11/11
   - PG [모의고사](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.cpp) 브루트포스
   
+### 2021/11/12
+  - PG [카펫](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%B9%B4%ED%8E%AB.cpp) 브루트포스/수학
+  
 </div>
 </details>
 
