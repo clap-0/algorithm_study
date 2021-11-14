@@ -1053,6 +1053,9 @@
 ### 2021/11/13
   - PG [체육복](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.cpp) 그리디
   
+### 2021/11/14
+  - BOJ [4796](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/4796_%EC%BA%A0%ED%95%91.cpp) 수학/그리디
+  
 </div>
 </details>
 
