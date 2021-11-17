@@ -1063,6 +1063,9 @@
 ### 2021/11/16
   - BOJ [11000](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11000_%EA%B0%95%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95.cpp) 그리디/우선순위큐
   
+### 2021/11/17
+  - BOJ [1541](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1541_%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%EA%B4%84%ED%98%B8.cpp) 그리디
+  
 </div>
 </details>
 
