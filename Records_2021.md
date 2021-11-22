@@ -1078,6 +1078,9 @@
 ### 2021/11/21
   - BOJ [1339](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1339_%EB%8B%A8%EC%96%B4%EC%88%98%ED%95%99.cpp) 그리디/브루트포스
   
+### 2021/11/22
+  - BOJ [1439](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1439_%EB%92%A4%EC%A7%91%EA%B8%B0.cpp) 그리디
+  
 </div>
 </details>
 
