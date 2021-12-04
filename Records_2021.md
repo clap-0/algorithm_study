@@ -1126,6 +1126,9 @@
   
 ### 2021/12/03
   - BOJ [13164](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13164_%ED%96%89%EB%B3%B5%EC%9C%A0%EC%B9%98%EC%9B%90.cpp) 그리디
+  
+### 2021/12/04
+  - PG [큰 수 만들기](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp) 그리디/스택
 
 </div>
 </details>
