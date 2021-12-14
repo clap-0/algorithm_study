@@ -1157,6 +1157,9 @@
   
 ### 2021/12/13
   - PG [구명보트](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.cpp) 그리디/투포인터
+  
+### 2021/12/14
+  - BOJ [14241](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14241_%EC%8A%AC%EB%9D%BC%EC%9E%84%ED%95%A9%EC%B9%98%EA%B8%B0.cpp) 그리디
 
 </div>
 </details>
