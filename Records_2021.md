@@ -1160,6 +1160,9 @@
   
 ### 2021/12/14
   - BOJ [14241](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14241_%EC%8A%AC%EB%9D%BC%EC%9E%84%ED%95%A9%EC%B9%98%EA%B8%B0.cpp) 그리디
+  
+### 2021/12/15
+  - BOJ [1092](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1092_%EB%B0%B0.cpp) 그리디/정렬
 
 </div>
 </details>
