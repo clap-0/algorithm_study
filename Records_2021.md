@@ -1167,6 +1167,9 @@
 ### 2021/12/16
   - BOJ [19940](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/19940_%ED%94%BC%EC%9E%90%EC%98%A4%EB%B8%90.cpp) 그리디/수학
 
+### 2021/12/17
+  - BOJ [11501](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11501_%EC%A3%BC%EC%8B%9D.cpp) 그리디
+  
 </div>
 </details>
 
