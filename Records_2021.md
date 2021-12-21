@@ -1176,7 +1176,7 @@
 ### 2021/12/19
   - BOJ [20115](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20115_%EC%97%90%EB%84%88%EC%A7%80%EB%93%9C%EB%A7%81%ED%81%AC.cpp) 그리디
   
-## 2021/12/20
+### 2021/12/20
   - PG [섬 연결하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.cpp) 그리디/MST
   
 ### 2021/12/21
