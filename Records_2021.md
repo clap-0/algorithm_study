@@ -1182,6 +1182,9 @@
 ### 2021/12/21
   - BOJ [13417](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13417_%EC%B9%B4%EB%93%9C%EB%AC%B8%EC%9E%90%EC%97%B4.cpp) 그리디
   
+### 2021/12/22
+  - PG [단속카메라](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.cpp) 그리디/정렬
+  
 </div>
 </details>
 
