@@ -1185,6 +1185,9 @@
 ### 2021/12/22
   - PG [단속카메라](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.cpp) 그리디/정렬
   
+### 2021/12/23
+  - PG [정수 삼각형](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.cpp) DP
+  
 </div>
 </details>
 
