@@ -1188,6 +1188,9 @@
 ### 2021/12/23
   - PG [정수 삼각형](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.cpp) DP
   
+### 2021/12/24
+  - PG [등굣길](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EB%93%B1%EA%B5%A3%EA%B8%B8.cpp) DP
+  
 </div>
 </details>
 
