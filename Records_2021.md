@@ -1191,6 +1191,9 @@
 ### 2021/12/24
   - PG [등굣길](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EB%93%B1%EA%B5%A3%EA%B8%B8.cpp) DP
   
+### 2021/12/25
+  - PG [도둑질](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EB%8F%84%EB%91%91%EC%A7%88.cpp) DP
+  
 </div>
 </details>
 
