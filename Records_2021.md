@@ -1194,6 +1194,9 @@
 ### 2021/12/25
   - PG [도둑질](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EB%8F%84%EB%91%91%EC%A7%88.cpp) DP
   
+### 2021/12/26
+  - PG [N으로 표현](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.cpp) DP
+  
 </div>
 </details>
 
