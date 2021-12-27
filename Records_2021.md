@@ -1197,6 +1197,9 @@
 ### 2021/12/26
   - PG [N으로 표현](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.cpp) DP
   
+### 2021/12/27
+  - PG [타겟 넘버](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.cpp) BFS
+  
 </div>
 </details>
 
