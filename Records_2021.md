@@ -1209,6 +1209,9 @@
 ### 2021/12/30
   - BOJ [16948](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16948_%EB%8D%B0%EC%8A%A4%EB%82%98%EC%9D%B4%ED%8A%B8.cpp) BFS
   
+### 2021/12/31
+  - BOJ [16568](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16568_%EC%97%94%EB%B9%84%EC%8A%A4%EC%B9%B4%EC%9D%98%EC%98%81%ED%98%BC.cpp) DP
+  
 </div>
 </details>
 
