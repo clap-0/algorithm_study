@@ -12,4 +12,5 @@
 |22/01/06|BOJ 16564|[히오스 프로게이머](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16564_%ED%9E%88%EC%98%A4%EC%8A%A4%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9D%B4%EB%A8%B8.cpp)|이분탐색||
 |22/01/07|BOJ 3079|[입국심사](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3079_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.cpp)|이분탐색||
 |22/01/08|PG|[입국심사](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.cpp)|이분탐색||
+|22/01/09|BOJ 1072|[게임](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1072_%EA%B2%8C%EC%9E%84.cpp)|이분탐색||
 
