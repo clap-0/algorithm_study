@@ -13,4 +13,4 @@
 |22/01/07|BOJ 3079|[입국심사](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3079_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.cpp)|이분탐색||
 |22/01/08|PG|[입국심사](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.cpp)|이분탐색||
 |22/01/09|BOJ 1072|[게임](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1072_%EA%B2%8C%EC%9E%84.cpp)|이분탐색||
-
+|22/01/10|BOJ 1253|[좋다](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1253_%EC%A2%8B%EB%8B%A4.cpp)|투포인터||
