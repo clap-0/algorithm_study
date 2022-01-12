@@ -15,3 +15,4 @@
 |22/01/09|BOJ 1072|[게임](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1072_%EA%B2%8C%EC%9E%84.cpp)|이분탐색||
 |22/01/10|BOJ 1253|[좋다](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1253_%EC%A2%8B%EB%8B%A4.cpp)|투포인터||
 |22/01/11|BOJ 2022|[사다리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2022_%EC%82%AC%EB%8B%A4%EB%A6%AC.cpp)|이분탐색||
+|22/01/12|BOJ 3896|[소수 사이 수열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3896_%EC%86%8C%EC%88%98%EC%82%AC%EC%9D%B4%EC%88%98%EC%97%B4.cpp)|소수판별/이분탐색||
