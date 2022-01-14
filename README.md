@@ -17,3 +17,4 @@
 |22/01/11|BOJ 2022|[사다리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2022_%EC%82%AC%EB%8B%A4%EB%A6%AC.cpp)|이분탐색||
 |22/01/12|BOJ 3896|[소수 사이 수열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3896_%EC%86%8C%EC%88%98%EC%82%AC%EC%9D%B4%EC%88%98%EC%97%B4.cpp)|소수판별/이분탐색||
 |22/01/13|BOJ 2866|[문자열 잘라내기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2866_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0.cpp)|정렬/문자열||
+|22/01/14|BOJ 11687|[팩토리얼 0의 개수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11687_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC0%EC%9D%98%EA%B0%9C%EC%88%98.cpp)|이분탐색/수학||
