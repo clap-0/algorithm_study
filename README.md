@@ -20,3 +20,4 @@
 |22/01/14|BOJ 11687|[팩토리얼 0의 개수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11687_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC0%EC%9D%98%EA%B0%9C%EC%88%98.cpp)|이분탐색/수학||
 |22/01/15|BOJ 18114|[블랙 프라이데이](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18114_%EB%B8%94%EB%9E%99%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4.cpp)|이분탐색/브루트포스||
 |22/01/16|BOJ 9024|[두 수의 합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9024_%EB%91%90%EC%88%98%EC%9D%98%ED%95%A9.cpp)|투포인터||
+|22/01/17|BOJ 17179|[케이크 자르기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17179_%EC%BC%80%EC%9D%B4%ED%81%AC%EC%9E%90%EB%A5%B4%EA%B8%B0.cpp)|이분탐색/그리디||
