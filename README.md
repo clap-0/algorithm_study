@@ -22,4 +22,4 @@
 |22/01/16|BOJ 9024|[두 수의 합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9024_%EB%91%90%EC%88%98%EC%9D%98%ED%95%A9.cpp)|투포인터||
 |22/01/17|BOJ 17179|[케이크 자르기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17179_%EC%BC%80%EC%9D%B4%ED%81%AC%EC%9E%90%EB%A5%B4%EA%B8%B0.cpp)|이분탐색/그리디||
 |22/01/18|BOJ 5710|[전기 요금](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/5710_%EC%A0%84%EA%B8%B0%EC%9A%94%EA%B8%88.cpp)|이분탐색/수학||
-
+|22/01/19|BOJ 14746|[Closest Pair](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14746_ClosestPair.cpp)|투포인터||
