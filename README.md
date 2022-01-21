@@ -24,3 +24,4 @@
 |22/01/18|BOJ 5710|[전기 요금](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/5710_%EC%A0%84%EA%B8%B0%EC%9A%94%EA%B8%88.cpp)|이분탐색/수학||
 |22/01/19|BOJ 14746|[Closest Pair](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14746_ClosestPair.cpp)|투포인터||
 |22/01/20|PG|[징검다리](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.cpp)|이분탐색/그리디|BOJ 17179와 유사한 문제|
+|22/01/21|PG|[가장 먼 노드](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C.cpp)|그래프/BFS||
