@@ -26,3 +26,4 @@
 |22/01/20|PG|[징검다리](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.cpp)|이분탐색/그리디|BOJ 17179와 유사한 문제|
 |22/01/21|PG|[가장 먼 노드](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C.cpp)|그래프/BFS||
 |22/01/22|BOJ 14716|[현수막](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14716_%ED%98%84%EC%88%98%EB%A7%89.cpp)|DFS||
+|22/01/23|BOJ 2668|[숫자고르기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2668_%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.cpp)|그래프/DFS|DFS로 사이클찾기|
