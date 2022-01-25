@@ -28,4 +28,4 @@
 |22/01/22|BOJ 14716|[현수막](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14716_%ED%98%84%EC%88%98%EB%A7%89.cpp)|DFS||
 |22/01/23|BOJ 2668|[숫자고르기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2668_%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.cpp)|그래프/DFS|DFS로 사이클찾기|
 |22/01/24|PG|[순위](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%88%9C%EC%9C%84.cpp)|플로이드||
-
+|22/01/25|BOJ 1806|[부분합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1806_%EB%B6%80%EB%B6%84%ED%95%A9.cpp)|투포인터||
