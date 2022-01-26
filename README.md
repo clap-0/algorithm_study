@@ -29,3 +29,4 @@
 |22/01/23|BOJ 2668|[숫자고르기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2668_%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.cpp)|그래프/DFS|DFS로 사이클찾기|
 |22/01/24|PG|[순위](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%88%9C%EC%9C%84.cpp)|플로이드||
 |22/01/25|BOJ 1806|[부분합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1806_%EB%B6%80%EB%B6%84%ED%95%A9.cpp)|투포인터||
+|22/01/26|BOJ 19598|[최소 회의실 개수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/19598_%EC%B5%9C%EC%86%8C%ED%9A%8C%EC%9D%98%EC%8B%A4%EA%B0%9C%EC%88%98.cpp)|그리디/우선순위큐||
