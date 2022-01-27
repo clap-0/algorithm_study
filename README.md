@@ -30,3 +30,4 @@
 |22/01/24|PG|[순위](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%88%9C%EC%9C%84.cpp)|플로이드||
 |22/01/25|BOJ 1806|[부분합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1806_%EB%B6%80%EB%B6%84%ED%95%A9.cpp)|투포인터||
 |22/01/26|BOJ 19598|[최소 회의실 개수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/19598_%EC%B5%9C%EC%86%8C%ED%9A%8C%EC%9D%98%EC%8B%A4%EA%B0%9C%EC%88%98.cpp)|그리디/우선순위큐||
+|22/01/27|BOJ 19640|[화장실의 규칙](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/19640_%ED%99%94%EC%9E%A5%EC%8B%A4%EC%9D%98%EA%B7%9C%EC%B9%99.cpp)|우선순위큐||
