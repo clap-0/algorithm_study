@@ -32,3 +32,4 @@
 |22/01/26|BOJ 19598|[최소 회의실 개수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/19598_%EC%B5%9C%EC%86%8C%ED%9A%8C%EC%9D%98%EC%8B%A4%EA%B0%9C%EC%88%98.cpp)|그리디/우선순위큐||
 |22/01/27|BOJ 19640|[화장실의 규칙](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/19640_%ED%99%94%EC%9E%A5%EC%8B%A4%EC%9D%98%EA%B7%9C%EC%B9%99.cpp)|우선순위큐||
 |22/01/28|BOJ 22252|[정보 상인 호석](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22252_%EC%A0%95%EB%B3%B4%EC%83%81%EC%9D%B8%ED%98%B8%EC%84%9D.cpp)|우선순위큐/해시||
+|22/01/29|BOJ 13975|[파일 합치기3](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13975_%ED%8C%8C%EC%9D%BC%ED%95%A9%EC%B9%98%EA%B8%B03.cpp)|그리디/우선순위큐||
