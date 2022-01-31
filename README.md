@@ -34,3 +34,4 @@
 |22/01/28|BOJ 22252|[정보 상인 호석](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22252_%EC%A0%95%EB%B3%B4%EC%83%81%EC%9D%B8%ED%98%B8%EC%84%9D.cpp)|우선순위큐/해시||
 |22/01/29|BOJ 13975|[파일 합치기3](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13975_%ED%8C%8C%EC%9D%BC%ED%95%A9%EC%B9%98%EA%B8%B03.cpp)|그리디/우선순위큐||
 |22/01/30|BOJ 14698|[전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14698_%EC%A0%84%EC%83%9D%ED%96%88%EB%8D%94%EB%8B%88%EC%8A%AC%EB%9D%BC%EC%9E%84%20%EC%97%B0%EA%B5%AC%EC%9E%90%EC%98%80%EB%8D%98%EA%B1%B4%EC%97%90%EB%8C%80%ED%95%98%EC%97%AC(Hard).cpp)|그리디/우선순위큐||
+|22/01/31|BOJ 14888|[연산자 끼워넣기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14888_%EC%97%B0%EC%82%B0%EC%9E%90%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.cpp)|브루트포스/백트래킹||
