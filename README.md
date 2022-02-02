@@ -55,6 +55,7 @@
   |Date|#|Title|Solution|Remarks|
   |:---:|:---:|:---:|:---:|:---:|
   |22/02/01|BOJ 2502|[떡 먹는 호랑이](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2502_%EB%96%A1%EB%A8%B9%EB%8A%94%ED%98%B8%EB%9E%91%EC%9D%B4.cpp)|브루트포스||
+  |22/02/02|BOJ 19638|[센티와 마법의 뿅망치](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/19638_%EC%84%BC%ED%8B%B0%EC%99%80%EB%A7%88%EB%B2%95%EC%9D%98%EB%BF%85%EB%A7%9D%EC%B9%98.cpp)|우선순위큐||
     
   </div>
 </details>
