@@ -59,6 +59,7 @@
   |22/02/03|PG|[이중우선순위큐](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.cpp)|우선순위큐||
   |22/02/04|PG|[소수 찾기](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.cpp)|브루트포스/소수판별||
   |22/02/05|BOJ 1041|[주사위](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1041_%EC%A3%BC%EC%82%AC%EC%9C%84.cpp)|수학/그리디||
+  |22/02/06|BOJ 12904|[A와 B](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12904_A%EC%99%80B.cpp)|그리디||
   
     
   </div>
