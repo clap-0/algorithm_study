@@ -61,6 +61,7 @@
   |22/02/05|BOJ 1041|[주사위](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1041_%EC%A3%BC%EC%82%AC%EC%9C%84.cpp)|수학/그리디||
   |22/02/06|BOJ 12904|[A와 B](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12904_A%EC%99%80B.cpp)|그리디||
   |22/02/07|BOJ 6087|[레이저 통신](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6087_%EB%A0%88%EC%9D%B4%EC%A0%80%ED%86%B5%EC%8B%A0.cpp)|다익스트라||
+  |22/02/08|BOJ 2042|[구간 합 구하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2042_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B0.cpp)|세그먼트 트리/펜윅 트리|*Updated*|
   
     
   </div>
