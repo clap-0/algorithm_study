@@ -70,6 +70,7 @@
   |22/02/14|BOJ 13334|[철로](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13334_%EC%B2%A0%EB%A1%9C.cpp)|스위핑/우선순위큐||
   |22/02/15|BOJ 17619|[개구리 점프](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17619_%EA%B0%9C%EA%B5%AC%EB%A6%AC%EC%A0%90%ED%94%84.cpp)|스위핑/유니온파인드||
   |22/02/16|BOJ 15922|[아우으 우아으이야!!](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15922_%EC%95%84%EC%9A%B0%EC%9C%BC%EC%9A%B0%EC%95%84%EC%9C%BC%EC%9D%B4%EC%95%BC!!.cpp)|스위핑||
+  |22/02/17|BOJ 1758|[알바생 강호](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1758_%EC%95%8C%EB%B0%94%EC%83%9D%EA%B0%95%ED%98%B8.cpp)|그리디||
   
     
   </div>
