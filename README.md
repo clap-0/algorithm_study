@@ -72,6 +72,7 @@
   |22/02/16|BOJ 15922|[아우으 우아으이야!!](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15922_%EC%95%84%EC%9A%B0%EC%9C%BC%EC%9A%B0%EC%95%84%EC%9C%BC%EC%9D%B4%EC%95%BC!!.cpp)|스위핑||
   |22/02/17|BOJ 1758|[알바생 강호](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1758_%EC%95%8C%EB%B0%94%EC%83%9D%EA%B0%95%ED%98%B8.cpp)|그리디||
   |22/02/18|BOJ 2836|[수상 택시](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2836_%EC%88%98%EC%83%81%ED%83%9D%EC%8B%9C.cpp)|스위핑||
+  |22/02/19|BOJ 1448|[삼각형 만들기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1448_%EC%82%BC%EA%B0%81%ED%98%95%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|그리디/수학||
   
     
   </div>
