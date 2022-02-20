@@ -73,6 +73,7 @@
   |22/02/17|BOJ 1758|[알바생 강호](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1758_%EC%95%8C%EB%B0%94%EC%83%9D%EA%B0%95%ED%98%B8.cpp)|그리디||
   |22/02/18|BOJ 2836|[수상 택시](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2836_%EC%88%98%EC%83%81%ED%83%9D%EC%8B%9C.cpp)|스위핑||
   |22/02/19|BOJ 1448|[삼각형 만들기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1448_%EC%82%BC%EA%B0%81%ED%98%95%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|그리디/수학||
+  |22/02/20|BOJ 5419|[북서풍](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/5419_%EB%B6%81%EC%84%9C%ED%92%8D.cpp)|스위핑/펜윅트리||
   
     
   </div>
