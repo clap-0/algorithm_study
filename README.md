@@ -80,6 +80,7 @@
   |22/02/24|BOJ 2655|[가장높은탑쌓기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2655_%EA%B0%80%EC%9E%A5%EB%86%92%EC%9D%80%ED%83%91%EC%8C%93%EA%B8%B0.cpp)|DP||
   |22/02/25|BOJ 2306|[유전자](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2306_%EC%9C%A0%EC%A0%84%EC%9E%90.cpp)|DP||
   |22/02/26|BOJ 12996|[Acka](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12996_Acka.cpp)|DP||
+  |22/02/27|BOJ 1958|[LCS 3](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1958_LCS3.cpp)|DP/문자열||
   
     
   </div>
