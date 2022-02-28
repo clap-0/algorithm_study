@@ -81,6 +81,7 @@
   |22/02/25|BOJ 2306|[유전자](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2306_%EC%9C%A0%EC%A0%84%EC%9E%90.cpp)|DP||
   |22/02/26|BOJ 12996|[Acka](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12996_Acka.cpp)|DP||
   |22/02/27|BOJ 1958|[LCS 3](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1958_LCS3.cpp)|DP/문자열||
+  |22/02/28|BOJ 2560|[짚신벌레](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2560_%EC%A7%9A%EC%8B%A0%EB%B2%8C%EB%A0%88.cpp)|DP||
   
     
   </div>
