@@ -83,9 +83,22 @@
   |22/02/27|BOJ 1958|[LCS 3](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1958_LCS3.cpp)|DP/문자열||
   |22/02/28|BOJ 2560|[짚신벌레](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2560_%EC%A7%9A%EC%8B%A0%EB%B2%8C%EB%A0%88.cpp)|DP||
   
+  </div>
+</details>
+  
+---
+
+### 2022/03
+<details value="Details">
+  <summary>Details</summary>
+  <div markdown="1">
+    
+  |Date|#|Title|Solution|Remarks|
+  |:--:|:--:|:--:|:--:|:--:|
+  |22/03/01|BOJ 7579|[앱](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/7579_%EC%95%B1.cpp)|DP/Knapsack||
+  
     
   </div>
 </details>
   
-  ---
-  
+---
