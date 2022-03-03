@@ -97,6 +97,7 @@
   |:--:|:--:|:--:|:--:|:--:|
   |22/03/01|BOJ 7579|[앱](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/7579_%EC%95%B1.cpp)|DP/Knapsack||
   |22/03/02|BOJ 14650|[걷다보니 신천역 삼 (Small)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14650_%EA%B1%B7%EB%8B%A4%EB%B3%B4%EB%8B%88%EC%8B%A0%EC%B2%9C%EC%97%AD%EC%82%BC(Small).cpp)|DP||
+  |22/03/03|BOJ 2748|[피보나치 수 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2748_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%982.cpp)|DP||
   
     
   </div>
