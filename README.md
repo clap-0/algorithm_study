@@ -100,6 +100,7 @@
   |22/03/03|BOJ 2748|[피보나치 수 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2748_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%982.cpp)|DP||
   |22/03/04|BOJ 16432|[떡장수와 호랑이](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16432_%EB%96%A1%EC%9E%A5%EC%88%98%EC%99%80%ED%98%B8%EB%9E%91%EC%9D%B4.cpp)|DFS||
   |22/03/05|BOJ 2565|[전깃줄](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2565_%EC%A0%84%EA%B9%83%EC%A4%84.cpp)|DP|LIS|
+  |22/03/06|BOJ 14226|[이모티콘](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14226_%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98.cpp)|BFS||
   
     
   </div>
