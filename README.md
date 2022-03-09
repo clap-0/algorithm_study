@@ -103,6 +103,7 @@
   |22/03/06|BOJ 14226|[이모티콘](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14226_%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98.cpp)|BFS||
   |22/03/07|BOJ 13398|[연속합 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13398_%EC%97%B0%EC%86%8D%ED%95%A92.cpp)|DP||
   |22/03/08|BOJ 10835|[카드게임](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10835_%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84.cpp)|DP||
+  |22/03/09|BOJ 2240|[자두나무](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2240_%EC%9E%90%EB%91%90%EB%82%98%EB%AC%B4.cpp)|DP||
   
     
   </div>
