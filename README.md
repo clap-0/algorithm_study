@@ -106,6 +106,7 @@
   |22/03/09|BOJ 2240|[자두나무](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2240_%EC%9E%90%EB%91%90%EB%82%98%EB%AC%B4.cpp)|DP||
   |22/03/10|BOJ 1720|[타일 코드](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1720_%ED%83%80%EC%9D%BC%EC%BD%94%EB%93%9C.cpp)|DP||
   |22/03/11|BOJ 11689|[GCD(n, k) = 1](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11689_GCD(n%2Ck)%3D1.cpp)|수학/소수판별|오일러 파이 함수|
+  |22/03/12|BOJ 2295|[세 수의 합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2295_%EC%84%B8%EC%88%98%EC%9D%98%ED%95%A9.cpp)|MITM/이분탐색||
   
     
   </div>
