@@ -108,6 +108,7 @@
   |22/03/11|BOJ 11689|[GCD(n, k) = 1](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11689_GCD(n%2Ck)%3D1.cpp)|수학/소수판별|오일러 파이 함수|
   |22/03/12|BOJ 2295|[세 수의 합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2295_%EC%84%B8%EC%88%98%EC%9D%98%ED%95%A9.cpp)|MITM/이분탐색||
   |22/03/13|BOJ 2670|[연속부분최대곱](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2670_%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%B5%9C%EB%8C%80%EA%B3%B1.cpp)|DP||
+  |22/03/14|BOJ 1208|[부분수열의 합 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1208_%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A92.cpp)|MITM||
   
     
   </div>
