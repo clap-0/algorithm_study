@@ -111,6 +111,7 @@
   |22/03/14|BOJ 1208|[부분수열의 합 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1208_%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A92.cpp)|MITM||
   |22/03/15|BOJ 7453|[합이 0인 네 정수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/7453_%ED%95%A9%EC%9D%B40%EC%9D%B8%EB%84%A4%EC%A0%95%EC%88%98.cpp)|MITM/이분탐색||
   |22/03/16|BOJ 11758|[CCW](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11758_CCW.cpp)|기하학||
+  |-|BOJ 2166|[다각형의 면적](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2166_%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%EB%A9%B4%EC%A0%81.cpp)|기하학/다각형의 넓이||
   
     
   </div>
