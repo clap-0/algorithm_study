@@ -110,8 +110,9 @@
   |22/03/13|BOJ 2670|[연속부분최대곱](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2670_%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%B5%9C%EB%8C%80%EA%B3%B1.cpp)|DP||
   |22/03/14|BOJ 1208|[부분수열의 합 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1208_%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A92.cpp)|MITM||
   |22/03/15|BOJ 7453|[합이 0인 네 정수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/7453_%ED%95%A9%EC%9D%B40%EC%9D%B8%EB%84%A4%EC%A0%95%EC%88%98.cpp)|MITM/이분탐색||
-  |22/03/16|BOJ 11758|[CCW](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11758_CCW.cpp)|기하학||
-  |-|BOJ 2166|[다각형의 면적](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2166_%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%EB%A9%B4%EC%A0%81.cpp)|기하학/다각형의 넓이||
+  |22/03/16|BOJ 11758|[CCW](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11758_CCW.cpp)|기하학|CCW|
+  |-|BOJ 2166|[다각형의 면적](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2166_%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%EB%A9%B4%EC%A0%81.cpp)|기하학/다각형의 넓이|CCW|
+  |22/03/17|BOJ 17386|[선분 교차 1](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17386_%EC%84%A0%EB%B6%84%EA%B5%90%EC%B0%A81.cpp)|기하학|CCW|
   
     
   </div>
