@@ -114,6 +114,7 @@
   |-|BOJ 2166|[다각형의 면적](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2166_%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%EB%A9%B4%EC%A0%81.cpp)|기하학/다각형의 넓이|CCW|
   |22/03/17|BOJ 17386|[선분 교차 1](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17386_%EC%84%A0%EB%B6%84%EA%B5%90%EC%B0%A81.cpp)|기하학|CCW|
   |22/03/18|BOJ 17387|[선분 교차 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17387_%EC%84%A0%EB%B6%84%EA%B5%90%EC%B0%A82.cpp)|기하학|CCW|
+  |22/03/19|BOJ 22953|[도도의 음식 준비](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22953_%EB%8F%84%EB%8F%84%EC%9D%98%EC%9D%8C%EC%8B%9D%EC%A4%80%EB%B9%84.cpp)|이분탐색/백트래킹|Parametric Search|
   
     
   </div>
