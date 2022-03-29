@@ -123,6 +123,7 @@
   |22/03/26|BOJ 4673|[셀프 넘버](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/4673_%EC%85%80%ED%94%84%EB%84%98%EB%B2%84.cpp)|브루트포스||
   |22/03/27|BOJ 9527|[1의 개수 세기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9527_1%EC%9D%98%EA%B0%9C%EC%88%98%EC%84%B8%EA%B8%B0.cpp)|수학/누적합||
   |22/03/28|BOJ 15652|[N과 M (4)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15652_N%EA%B3%BCM(4).cpp)|백트래킹||
+  |22/03/29|BOJ 16946|[벽 부수고 이동하기 4](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16946_%EB%B2%BD%EB%B6%80%EC%88%98%EA%B3%A0%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B04.cpp)|유니온파인드/그래프||
   
     
   </div>
