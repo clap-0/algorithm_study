@@ -125,6 +125,7 @@
   |22/03/28|BOJ 15652|[N과 M (4)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15652_N%EA%B3%BCM(4).cpp)|백트래킹||
   |22/03/29|BOJ 16946|[벽 부수고 이동하기 4](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16946_%EB%B2%BD%EB%B6%80%EC%88%98%EA%B3%A0%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B04.cpp)|유니온파인드/그래프||
   |22/03/30|BOJ 20149|[선분 교차 3](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20149_%EC%84%A0%EB%B6%84%EA%B5%90%EC%B0%A83.cpp)|기하학|CCW|
+  |22/03/31|BOJ 14284|[간선 이어가기 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14284_%EA%B0%84%EC%84%A0%EC%9D%B4%EC%96%B4%EA%B0%80%EA%B8%B02.cpp)|다익스트라||
   
     
   </div>
