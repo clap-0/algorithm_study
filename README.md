@@ -132,3 +132,18 @@
 </details>
   
 ---
+
+### 2021/04
+<details value="Details">
+  <summary>Details</summary>
+  <div markdown="1">
+    
+  |Date|#|Title|Solution|Remarks|
+  |:--:|:--:|:--:|:--:|:--:|
+  |22/04/01|BOJ 1495|[기타리스트](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1495_%EA%B8%B0%ED%83%80%EB%A6%AC%EC%8A%A4%ED%8A%B8.cpp)|DP||
+  
+  
+  </div>
+</details>
+
+---
