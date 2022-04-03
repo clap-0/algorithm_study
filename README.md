@@ -142,7 +142,7 @@
   |:--:|:--:|:--:|:--:|:--:|
   |22/04/01|BOJ 1495|[기타리스트](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1495_%EA%B8%B0%ED%83%80%EB%A6%AC%EC%8A%A4%ED%8A%B8.cpp)|DP||
   |22/04/02|BOJ 1038|[감소하는 수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1038_%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%EC%88%98.cpp)|브루트포스||
-  
+  |22/04/03|BOJ 1662|[압축](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1662_%EC%95%95%EC%B6%95.cpp)|구현/재귀||
   
   </div>
 </details>
