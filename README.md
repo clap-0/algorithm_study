@@ -145,6 +145,7 @@
   |22/04/03|BOJ 1662|[압축](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1662_%EC%95%95%EC%B6%95.cpp)|구현/재귀||
   |22/04/04|BOJ 1507|[궁금한 민호](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1507_%EA%B6%81%EA%B8%88%ED%95%9C%EB%AF%BC%ED%98%B8.cpp)|플로이드||
   |22/04/05|BOJ 11437|[LCA](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11437_LCA.cpp)|트리/DP/희소 배열|LCA|
+  |22/04/06|BOJ 1761|[정점들의 거리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1761_%EC%A0%95%EC%A0%90%EB%93%A4%EC%9D%98%EA%B1%B0%EB%A6%AC.cpp)|트리/DP/희소 배열|LCA|
   
     
   </div>
