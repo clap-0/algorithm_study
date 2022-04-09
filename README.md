@@ -148,6 +148,7 @@
   |22/04/06|BOJ 1761|[정점들의 거리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1761_%EC%A0%95%EC%A0%90%EB%93%A4%EC%9D%98%EA%B1%B0%EB%A6%AC.cpp)|트리/DP/희소 배열|LCA|
   |22/04/07|BOJ 11438|[LCA 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11438_LCA2.cpp)|트리/DP/희소 배열|LCA|
   |22/04/08|BOJ 4354|[문자열 제곱](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/4354_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A0%9C%EA%B3%B1.cpp)|KMP||
+  |22/04/09|BOJ 16916|[부분 문자열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16916_%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)|KMP||
   
     
   </div>
