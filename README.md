@@ -151,6 +151,7 @@
   |22/04/09|BOJ 16916|[부분 문자열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16916_%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)|KMP||
   |22/04/10|BOJ 3176|[도로 네트워크](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3176_%EB%8F%84%EB%A1%9C%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp)|트리/DP/희소 배열|LCA|
   |22/04/11|BOJ 1305|[광고](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1305_%EA%B4%91%EA%B3%A0.cpp)|KMP||
+  |22/04/12|BOJ 1774|[우주신과의 교감](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1774_%EC%9A%B0%EC%A3%BC%EC%8B%A0%EA%B3%BC%EC%9D%98%EA%B5%90%EA%B0%90.cpp)|MST||
   
     
   </div>
