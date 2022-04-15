@@ -154,6 +154,7 @@
   |22/04/12|BOJ 1774|[우주신과의 교감](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1774_%EC%9A%B0%EC%A3%BC%EC%8B%A0%EA%B3%BC%EC%9D%98%EA%B5%90%EA%B0%90.cpp)|MST||
   |22/04/13|BOJ 11585|[속타는 저녁 메뉴](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11585_%EC%86%8D%ED%83%80%EB%8A%94%EC%A0%80%EB%85%81%EB%A9%94%EB%89%B4.cpp)|KMP||
   |22/04/14|BOJ 2230|[수 고르기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2230_%EC%88%98%EA%B3%A0%EB%A5%B4%EA%B8%B0.cpp)|투포인터||
+  |22/04/15|BOJ 2436|[공약수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2436_%EA%B3%B5%EC%95%BD%EC%88%98.cpp)|브루트포스/유클리드 호제법||
   
     
   </div>
