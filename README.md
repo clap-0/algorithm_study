@@ -155,6 +155,7 @@
   |22/04/13|BOJ 11585|[속타는 저녁 메뉴](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11585_%EC%86%8D%ED%83%80%EB%8A%94%EC%A0%80%EB%85%81%EB%A9%94%EB%89%B4.cpp)|KMP||
   |22/04/14|BOJ 2230|[수 고르기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2230_%EC%88%98%EA%B3%A0%EB%A5%B4%EA%B8%B0.cpp)|투포인터||
   |22/04/15|BOJ 2436|[공약수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2436_%EA%B3%B5%EC%95%BD%EC%88%98.cpp)|브루트포스/유클리드 호제법||
+  |22/04/16|BOJ 17425|[약수의 합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17425_%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9.cpp)|누적합/에라토스테네스의 체||
   
     
   </div>
