@@ -162,6 +162,7 @@
   |22/04/20|BOJ 16570|[앞뒤가 맞는 수열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16570_%EC%95%9E%EB%92%A4%EA%B0%80%EB%A7%9E%EB%8A%94%EC%88%98%EC%97%B4.cpp)|KMP||
   |22/04/21|BOJ 1052|[물병](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1052_%EB%AC%BC%EB%B3%91.cpp)|비트마스킹/그리디||
   |22/04/22|BOJ 10973|[이전 순열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10973_%EC%9D%B4%EC%A0%84%EC%88%9C%EC%97%B4.cpp)|구현||
+  |22/04/23|BOJ 17413|[단어 뒤집기 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17413_%EB%8B%A8%EC%96%B4%EB%92%A4%EC%A7%91%EA%B8%B02.cpp)|구현/스택||
   
     
   </div>
