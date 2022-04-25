@@ -164,6 +164,7 @@
   |22/04/22|BOJ 10973|[이전 순열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10973_%EC%9D%B4%EC%A0%84%EC%88%9C%EC%97%B4.cpp)|구현||
   |22/04/23|BOJ 17413|[단어 뒤집기 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17413_%EB%8B%A8%EC%96%B4%EB%92%A4%EC%A7%91%EA%B8%B02.cpp)|구현/스택||
   |22/04/24|BOJ 18111|[마인크래프트](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18111_%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8.cpp)|구현/누적합||
+  |22/04/25|BOJ 2902|[KMP는 왜 KMP일까?](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2902_KMP%EB%8A%94%EC%99%9CKMP%EC%9D%BC%EA%B9%8C%3F.cpp)|구현||
   
     
   </div>
