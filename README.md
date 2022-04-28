@@ -167,6 +167,7 @@
   |22/04/25|BOJ 2902|[KMP는 왜 KMP일까?](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2902_KMP%EB%8A%94%EC%99%9CKMP%EC%9D%BC%EA%B9%8C%3F.cpp)|구현||
   |22/04/26|BOJ 2581|[소수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2581_%EC%86%8C%EC%88%98.cpp)|소수판별||
   |22/04/27|BOJ 10926|[??!](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10926_%3F%3F!.cpp)|구현||
+  |22/04/28|BOJ 1063|[킹](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1063_%ED%82%B9.cpp)|구현||
   
     
   </div>
