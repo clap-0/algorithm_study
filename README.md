@@ -168,6 +168,7 @@
   |22/04/26|BOJ 2581|[소수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2581_%EC%86%8C%EC%88%98.cpp)|소수판별||
   |22/04/27|BOJ 10926|[??!](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10926_%3F%3F!.cpp)|구현||
   |22/04/28|BOJ 1063|[킹](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1063_%ED%82%B9.cpp)|구현||
+  |22/04/29|BOJ 2098|[외판원 순회](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2098_%EC%99%B8%ED%8C%90%EC%9B%90%EC%88%9C%ED%9A%8C.cpp)|DP/비트마스킹||
   
     
   </div>
