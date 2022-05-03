@@ -185,6 +185,7 @@
   |:--:|:--:|:--:|:--:|:--:|
   |22/05/01|BOJ 15658|[연산자 끼워넣기 (2)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15658_%EC%97%B0%EC%82%B0%EC%9E%90%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0(2).cpp)|구현/백트래킹||
   |22/05/02|BOJ 1102|[발전소](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1102_%EB%B0%9C%EC%A0%84%EC%86%8C.cpp)|DP/비트마스킹||
+  |22/05/03|BOJ 1029|[그림 교환](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1029_%EA%B7%B8%EB%A6%BC%EA%B5%90%ED%99%98.cpp)|DP/비트마스킹||
   
     
   </div>
