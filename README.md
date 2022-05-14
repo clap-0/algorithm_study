@@ -196,6 +196,7 @@
   |22/05/11|BOJ 15666|[N과 M (12)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15666_N%EA%B3%BCM(12).cpp)|백트래킹||
   |22/05/12|BOJ 1311|[할 일 정하기 1](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1311_%ED%95%A0%EC%9D%BC%EC%A0%95%ED%95%98%EA%B8%B01.cpp)|DP/비트마스킹||
   |22/05/13|BOJ 1043|[거짓말](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1043_%EA%B1%B0%EC%A7%93%EB%A7%90.cpp)|유니온파인드||
+  |22/05/14|BOJ 18870|[좌표 압축](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18870_%EC%A2%8C%ED%91%9C%EC%95%95%EC%B6%95.cpp)|정렬/좌표압축||
   
     
   </div>
