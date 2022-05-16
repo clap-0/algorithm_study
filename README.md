@@ -198,6 +198,7 @@
   |22/05/13|BOJ 1043|[거짓말](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1043_%EA%B1%B0%EC%A7%93%EB%A7%90.cpp)|유니온파인드||
   |22/05/14|BOJ 18870|[좌표 압축](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18870_%EC%A2%8C%ED%91%9C%EC%95%95%EC%B6%95.cpp)|정렬/좌표압축||
   |22/05/15|BOJ 1676|[팩토리얼 0의 개수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1676_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC0%EC%9D%98%EA%B0%9C%EC%88%98.cpp)|수학||
+  |22/05/16|BOJ 5525|[IOIOI](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/5525_IOIOI.cpp)|구현||
   
     
   </div>
