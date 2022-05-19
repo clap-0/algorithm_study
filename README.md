@@ -201,6 +201,7 @@
   |22/05/16|BOJ 5525|[IOIOI](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/5525_IOIOI.cpp)|구현||
   |22/05/17|BOJ 17352|[여러분의 다리가 되어 드리겠습니다!](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17352_%EC%97%AC%EB%9F%AC%EB%B6%84%EC%9D%98%EB%8B%A4%EB%A6%AC%EA%B0%80%EB%90%98%EC%96%B4%EB%93%9C%EB%A6%AC%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4!.cpp)|유니온파인드||
   |22/05/18|BOJ 9372|[상근이의 여행](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9372_%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%EC%97%AC%ED%96%89.cpp)|트리||
+  |22/05/19|BOJ 2580|[스도쿠](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2580_%EC%8A%A4%EB%8F%84%EC%BF%A0.cpp)|백트래킹||
   
     
   </div>
