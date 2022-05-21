@@ -203,6 +203,7 @@
   |22/05/18|BOJ 9372|[상근이의 여행](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9372_%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%EC%97%AC%ED%96%89.cpp)|트리||
   |22/05/19|BOJ 2580|[스도쿠](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2580_%EC%8A%A4%EB%8F%84%EC%BF%A0.cpp)|백트래킹||
   |22/05/20|BOJ 9934|[완전 이진 트리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9934_%EC%99%84%EC%A0%84%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC.cpp)|트리/재귀||
+  |22/05/21|BOJ 2250|[트리의 높이와 너비](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2250_%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%86%92%EC%9D%B4%EC%99%80%EB%84%88%EB%B9%84.cpp)|트리/DFS||
   
     
   </div>
