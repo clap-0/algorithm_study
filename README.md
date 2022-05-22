@@ -204,6 +204,7 @@
   |22/05/19|BOJ 2580|[스도쿠](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2580_%EC%8A%A4%EB%8F%84%EC%BF%A0.cpp)|백트래킹||
   |22/05/20|BOJ 9934|[완전 이진 트리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9934_%EC%99%84%EC%A0%84%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC.cpp)|트리/재귀||
   |22/05/21|BOJ 2250|[트리의 높이와 너비](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2250_%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%86%92%EC%9D%B4%EC%99%80%EB%84%88%EB%B9%84.cpp)|트리/DFS||
+  |22/05/22|BOJ 3584|[가장 가까운 공통 조상](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3584_%EA%B0%80%EC%9E%A5%EA%B0%80%EA%B9%8C%EC%9A%B4%EA%B3%B5%ED%86%B5%EC%A1%B0%EC%83%81.cpp)|트리/DP/희소배열|LCA|
   
     
   </div>
