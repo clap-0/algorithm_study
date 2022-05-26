@@ -208,6 +208,7 @@
   |22/05/23|BOJ 4256|[트리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/4256_%ED%8A%B8%EB%A6%AC.cpp)|트리/재귀/분할정복||
   |22/05/24|BOJ 13325|[이진 트리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13325_%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC.cpp)|트리/DFS||
   |22/05/25|BOJ 2957|[이진 탐색 트리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2957_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%ED%8A%B8%EB%A6%AC.cpp)|트리/맵||
+  |22/05/26|BOJ 20364|[부동산 다툼](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20364_%EB%B6%80%EB%8F%99%EC%82%B0%EB%8B%A4%ED%88%BC.cpp)|트리||
   
     
   </div>
