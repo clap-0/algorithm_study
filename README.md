@@ -212,6 +212,7 @@
   |22/05/27|BOJ 3665|[최종 순위](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3665_%EC%B5%9C%EC%A2%85%EC%88%9C%EC%9C%84.cpp)|위상정렬/그래프||
   |22/05/28|BOJ 2004|[조합 0의 개수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2004_%EC%A1%B0%ED%95%A90%EC%9D%98%EA%B0%9C%EC%88%98.cpp)|수학/정수론||
   |22/05/29|BOJ 1535|[안녕](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1535_%EC%95%88%EB%85%95.cpp)|DP|Knapsack Problem|
+  |22/05/30|BOJ 1431|[시리얼 번호](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1431_%EC%8B%9C%EB%A6%AC%EC%96%BC%EB%B2%88%ED%98%B8.cpp)|정렬||
   
     
   </div>
