@@ -229,6 +229,8 @@
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
   |22/06/01|BOJ 13023|[ABCDE](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13023_ABCDE.cpp)|DFS||
+  |22/06/02|BOJ 22352|[항체 인식](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22352_%ED%95%AD%EC%B2%B4%EC%9D%B8%EC%8B%9D.cpp)|DFS||
+  
     
   </div>
 </details>
