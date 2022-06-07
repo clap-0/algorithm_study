@@ -234,6 +234,7 @@
   |22/06/04|BOJ 13265|[색칠하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13265_%EC%83%89%EC%B9%A0%ED%95%98%EA%B8%B0.cpp)|BFS||
   |22/06/05|BOJ 1245|[농장 관리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1245_%EB%86%8D%EC%9E%A5%EA%B4%80%EB%A6%AC.cpp)|DFS||
   |22/06/06|BOJ 24479|[알고리즘 수업 - 깊이 우선 탐색 1](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/24479_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%88%98%EC%97%85-%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%891.cpp)|DFS||
+  |22/06/07|BOJ 17836|[공주님을 구해라!](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17836_%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%84%EA%B5%AC%ED%95%B4%EB%9D%BC!.cpp)|BFS||
   
     
   </div>
