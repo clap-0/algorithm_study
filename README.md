@@ -237,10 +237,11 @@
   |22/06/07|BOJ 17836|[공주님을 구해라!](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17836_%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%84%EA%B5%AC%ED%95%B4%EB%9D%BC!.cpp)|BFS||
   |22/06/08|BOJ 2573|[빙산](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2573_%EB%B9%99%EC%82%B0.cpp)|DFS||
   |22/06/09|BOJ 7511|[소셜 네트워킹 어플리케이션](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/7511_%EC%86%8C%EC%85%9C%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98.cpp)|유니온파인드||
-  |22/06/10|BOJ|[심준의 병역판정검사](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25285_%EC%8B%AC%EC%A4%80%EC%9D%98%EB%B3%91%EC%97%AD%ED%8C%90%EC%A0%95%EA%B2%80%EC%82%AC.cpp)|구현/많은 조건 분기||
-  |-|BOJ|[11월 11일](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25286_11%EC%9B%9411%EC%9D%BC.cpp)|구현||
-  |-|BOJ|[순열 정렬](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25287_%EC%88%9C%EC%97%B4%EC%A0%95%EB%A0%AC.cpp)|그리디||
-  |-|BOJ|[영어 시험](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25288_%EC%98%81%EC%96%B4%EC%8B%9C%ED%97%98.cpp)|애드혹/구현||
+  |22/06/10|BOJ 25285|[심준의 병역판정검사](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25285_%EC%8B%AC%EC%A4%80%EC%9D%98%EB%B3%91%EC%97%AD%ED%8C%90%EC%A0%95%EA%B2%80%EC%82%AC.cpp)|구현/많은 조건 분기||
+  |-|BOJ 25286|[11월 11일](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25286_11%EC%9B%9411%EC%9D%BC.cpp)|구현||
+  |-|BOJ 25287|[순열 정렬](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25287_%EC%88%9C%EC%97%B4%EC%A0%95%EB%A0%AC.cpp)|그리디||
+  |-|BOJ 25288|[영어 시험](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25288_%EC%98%81%EC%96%B4%EC%8B%9C%ED%97%98.cpp)|애드혹/구현||
+  |22/06/11|BOJ 1032|[명령 프롬프트](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1032_%EB%AA%85%EB%A0%B9%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.cpp)|구현/문자열||
   
     
   </div>
