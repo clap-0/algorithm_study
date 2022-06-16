@@ -246,6 +246,7 @@
   |22/06/13|BOJ 10158|[개미](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10158_%EA%B0%9C%EB%AF%B8.cpp)|애드혹/수학||
   |22/06/14|BOJ 15904|[UCPC는 무엇의 약자일까?](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15904_UCPC%EB%8A%94%EB%AC%B4%EC%97%87%EC%9D%98%EC%95%BD%EC%9E%90%EC%9D%BC%EA%B9%8C%3F.cpp)|그리디||
   |22/06/15|BOJ 1106|[호텔](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1106_%ED%98%B8%ED%85%94.cpp)|DP|Knapsack Problem|
+  |22/06/16|BOJ 3067|[Coins](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3067_Coins.cpp)|DP|Knapsack Problem|
   
     
   </div>
