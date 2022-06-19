@@ -249,6 +249,7 @@
   |22/06/16|BOJ 3067|[Coins](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3067_Coins.cpp)|DP|Knapsack Problem|
   |22/06/17|BOJ 3933|[라그랑주의 네 제곱수 정리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3933_%EB%9D%BC%EA%B7%B8%EB%9E%91%EC%A3%BC%EC%9D%98%EB%84%A4%EC%A0%9C%EA%B3%B1%EC%88%98%EC%A0%95%EB%A6%AC.cpp)|DP|
   |22/06/18|BOJ 14501|[퇴사](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14501_%ED%87%B4%EC%82%AC.cpp)|DP||
+  |22/06/19|BOJ 14494|[다이나믹이 뭐예요?](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14494_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%EC%9D%B4%EB%AD%90%EC%98%88%EC%9A%94%3F.cpp)|DP||
   
     
   </div>
