@@ -252,6 +252,7 @@
   |22/06/19|BOJ 14494|[다이나믹이 뭐예요?](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14494_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%EC%9D%B4%EB%AD%90%EC%98%88%EC%9A%94%3F.cpp)|DP||
   |22/06/20|BOJ 1351|[무한 수열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1351_%EB%AC%B4%ED%95%9C%EC%88%98%EC%97%B4.cpp)|DP/해시||
   |22/06/21|BOJ 1309|[동물원](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1309_%EB%8F%99%EB%AC%BC%EC%9B%90.cpp)|DP||
+  |22/06/22|BOJ 11058|[크리보드](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11058_%ED%81%AC%EB%A6%AC%EB%B3%B4%EB%93%9C.cpp)|DP||
   
     
   </div>
