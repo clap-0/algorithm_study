@@ -253,6 +253,7 @@
   |22/06/20|BOJ 1351|[무한 수열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1351_%EB%AC%B4%ED%95%9C%EC%88%98%EC%97%B4.cpp)|DP/해시||
   |22/06/21|BOJ 1309|[동물원](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1309_%EB%8F%99%EB%AC%BC%EC%9B%90.cpp)|DP||
   |22/06/22|BOJ 11058|[크리보드](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11058_%ED%81%AC%EB%A6%AC%EB%B3%B4%EB%93%9C.cpp)|DP||
+  |22/06/23|BOJ 1890|[점프](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1890_%EC%A0%90%ED%94%84.cpp)|DP||
   
     
   </div>
