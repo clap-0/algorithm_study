@@ -257,7 +257,8 @@
   |22/06/24|BOJ 2410|[2의 멱수의 합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2410_2%EC%9D%98%EB%A9%B1%EC%88%98%EC%9D%98%ED%95%A9.cpp)|DP||
   |22/06/25|BOJ 11048|[이동하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11048_%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.cpp)|DP||
   |22/06/26|BOJ 9625|[BABBA](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9625_BABBA.cpp)|DP||
-  
+  |22/06/27|BOJ 2501|[약수 구하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2501_%EC%95%BD%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.cpp)|브루트포스||
+
     
   </div>
 </details>
