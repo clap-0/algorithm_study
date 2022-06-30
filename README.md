@@ -261,7 +261,7 @@
   |22/06/28|BOJ 25304|[영수증](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25304_%EC%98%81%EC%88%98%EC%A6%9D.cpp)|수학/구현||
   |-|BOJ 25305|[커트라인](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25305_%EC%BB%A4%ED%8A%B8%EB%9D%BC%EC%9D%B8.cpp)|구현/정렬||
   |22/06/29|BOJ 22353|[헤이카카오](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22353_%ED%97%A4%EC%9D%B4%EC%B9%B4%EC%B9%B4%EC%98%A4.cpp)|수학/확률론||
-  
+  |22/06/30|BOJ 2743|[단어 길이 재기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2743_%EB%8B%A8%EC%96%B4%EA%B8%B8%EC%9D%B4%EC%9E%AC%EA%B8%B0.cpp)|문자열||
     
   </div>
 </details>
