@@ -267,3 +267,18 @@
 </details>
 
 ---
+
+### 2021/07
+<details value="Details">
+  <summary>Details</summary>
+  <div markdown="1">
+    
+  |Date|#|Title|Solution|Remarks|
+  |:--:|:--:|:--:|:--:|:--:|
+  |22/07/01|BOJ 14426|[접두사 찾기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14426_%EC%A0%91%EB%91%90%EC%82%AC%EC%B0%BE%EA%B8%B0.cpp)|트라이||
+  
+
+  </div>
+</details>
+
+---
