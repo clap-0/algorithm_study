@@ -276,6 +276,7 @@
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
   |22/07/01|BOJ 14426|[접두사 찾기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14426_%EC%A0%91%EB%91%90%EC%82%AC%EC%B0%BE%EA%B8%B0.cpp)|트라이||
+  |22/07/02|BOJ 16234|[인구 이동](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16234_%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.cpp)|BFS/시뮬레이션||
   
 
   </div>
