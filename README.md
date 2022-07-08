@@ -282,6 +282,7 @@
   |22/07/05|BOJ 23037|[5의 수난](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/23037_5%EC%9D%98%EC%88%98%EB%82%9C.cpp)|구현/수학||
   |22/07/06|BOJ 2116|[주사위 쌓기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2116_%EC%A3%BC%EC%82%AC%EC%9C%84%EC%8C%93%EA%B8%B0.cpp)|브루트포스/구현||
   |22/07/07|BOJ 19538|[루머](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/19538_%EB%A3%A8%EB%A8%B8.cpp)|BFS||
+  |22/07/08|BOJ 12886|[돌 그룹](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12886_%EB%8F%8C%EA%B7%B8%EB%A3%B9.cpp)|BFS||
   
 
   </div>
