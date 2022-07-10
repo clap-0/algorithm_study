@@ -284,6 +284,7 @@
   |22/07/07|BOJ 19538|[루머](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/19538_%EB%A3%A8%EB%A8%B8.cpp)|BFS||
   |22/07/08|BOJ 12886|[돌 그룹](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12886_%EB%8F%8C%EA%B7%B8%EB%A3%B9.cpp)|BFS||
   |22/07/09|BOJ 3078|[좋은 친구](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3078_%EC%A2%8B%EC%9D%80%EC%B9%9C%EA%B5%AC.cpp)|큐/슬라이딩 윈도우||
+  |22/07/10|BOJ 14923|[미로 탈출](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14923_%EB%AF%B8%EB%A1%9C%ED%83%88%EC%B6%9C.cpp)|BFS|방문처리 배열의 크기를 늘리지 않고 해결|
   
 
   </div>
