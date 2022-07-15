@@ -289,6 +289,7 @@
   |22/07/12|BOJ 1963|[소수 경로](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1963_%EC%86%8C%EC%88%98%EA%B2%BD%EB%A1%9C.cpp)|BFS/소수판별||
   |22/07/13|BOJ 16197|[두 동전](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16197_%EB%91%90%EB%8F%99%EC%A0%84.cpp)|BFS||
   |22/07/14|BOJ 4179|[불!](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/4179_%EB%B6%88!.cpp)|BFS||
+  |22/07/15|BOJ 2754|[학점계산](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2754_%ED%95%99%EC%A0%90%EA%B3%84%EC%82%B0.cpp)|구현/문자열||
   
 
   </div>
