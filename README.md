@@ -292,6 +292,7 @@
   |22/07/15|BOJ 2754|[학점계산](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2754_%ED%95%99%EC%A0%90%EA%B3%84%EC%82%B0.cpp)|구현/문자열||
   |22/07/16|BOJ 16120|[PPAP](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16120_PPAP.cpp)|문자열/그리디/스택||
   |22/07/17|BOJ 16397|[탈출](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16397_%ED%83%88%EC%B6%9C.cpp)|BFS||
+  |22/07/18|BOJ 2248|[이진수 찾기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2248_%EC%9D%B4%EC%A7%84%EC%88%98%EC%B0%BE%EA%B8%B0.cpp)|DP||
   
 
   </div>
