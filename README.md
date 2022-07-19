@@ -293,6 +293,7 @@
   |22/07/16|BOJ 16120|[PPAP](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16120_PPAP.cpp)|문자열/그리디/스택||
   |22/07/17|BOJ 16397|[탈출](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16397_%ED%83%88%EC%B6%9C.cpp)|BFS||
   |22/07/18|BOJ 2248|[이진수 찾기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2248_%EC%9D%B4%EC%A7%84%EC%88%98%EC%B0%BE%EA%B8%B0.cpp)|DP||
+  |22/07/19|BOJ 11382|[꼬마 정민](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11382_%EA%BC%AC%EB%A7%88%EC%A0%95%EB%AF%BC.cpp)|수학||
   
 
   </div>
