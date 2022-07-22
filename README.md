@@ -296,6 +296,7 @@
   |22/07/19|BOJ 11382|[꼬마 정민](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11382_%EA%BC%AC%EB%A7%88%EC%A0%95%EB%AF%BC.cpp)|수학||
   |22/07/20|BOJ 1965|[상자넣기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1965_%EC%83%81%EC%9E%90%EB%84%A3%EA%B8%B0.cpp)|DP||
   |22/07/21|BOJ 2228|[구간 나누기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2228_%EA%B5%AC%EA%B0%84%EB%82%98%EB%88%84%EA%B8%B0.cpp)|DP||
+  |22/07/22|BOJ 18119|[단어 암기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18119_%EB%8B%A8%EC%96%B4%EC%95%94%EA%B8%B0.cpp)|브루트포스/비트마스킹||
   
 
   </div>
