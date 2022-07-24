@@ -298,6 +298,8 @@
   |22/07/21|BOJ 2228|[구간 나누기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2228_%EA%B5%AC%EA%B0%84%EB%82%98%EB%88%84%EA%B8%B0.cpp)|DP||
   |22/07/22|BOJ 18119|[단어 암기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18119_%EB%8B%A8%EC%96%B4%EC%95%94%EA%B8%B0.cpp)|브루트포스/비트마스킹||
   |22/07/23|BOJ 20055|[컨베이어 벨트 위의 로봇](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20055_%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4%EB%B2%A8%ED%8A%B8%EC%9C%84%EC%9D%98%EB%A1%9C%EB%B4%87.cpp)|구현/시뮬레이션||
+  |22/07/24|BOJ 18116|[로봇 조립](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18116_%EB%A1%9C%EB%B4%87%EC%A1%B0%EB%A6%BD.cpp)|유니온파인드||
+  
 
   </div>
 </details>
