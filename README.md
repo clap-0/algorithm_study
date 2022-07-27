@@ -301,6 +301,8 @@
   |22/07/24|BOJ 18116|[로봇 조립](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18116_%EB%A1%9C%EB%B4%87%EC%A1%B0%EB%A6%BD.cpp)|유니온파인드||
   |22/07/25|BOJ 1138|[한 줄로 서기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1138_%ED%95%9C%EC%A4%84%EB%A1%9C%EC%84%9C%EA%B8%B0.cpp)|구현||
   |22/07/26|BOJ 9519|[졸려](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9519_%EC%A1%B8%EB%A0%A4.cpp)|구현/시뮬레이션||
+  |22/07/27|BOJ 13335|[트럭](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13335_%ED%8A%B8%EB%9F%AD.cpp)|구현/시뮬레이션/큐||
+  
 
   </div>
 </details>
