@@ -304,7 +304,7 @@
   |22/07/27|BOJ 13335|[트럭](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13335_%ED%8A%B8%EB%9F%AD.cpp)|구현/시뮬레이션/큐||
   |22/07/28|BOJ 2002|[추월](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2002_%EC%B6%94%EC%9B%94.cpp)|구현/해시||
   |22/07/29|BOJ 13905|[세부](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13905_%EC%84%B8%EB%B6%80.cpp)|MST/BFS||
-  
+  |22/07/30|BOJ 1213|[팰린드롬 만들기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1213_%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|구현||
 
   </div>
 </details>
