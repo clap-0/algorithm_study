@@ -320,7 +320,7 @@
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
   |22/08/01|BOJ 14681|[사분면 고르기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14681_%EC%82%AC%EB%B6%84%EB%A9%B4%EA%B3%A0%EB%A5%B4%EA%B8%B0.cpp)|구현||
-  
+  |22/08/02|BOJ 1076|[저항](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1076_%EC%A0%80%ED%95%AD.cpp)|구현||
 
   </div>
 </details>
