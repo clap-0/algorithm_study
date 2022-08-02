@@ -21,6 +21,10 @@ int main()
         break;
       }
   }
+  
+  int ans = value[0] * 10LL + value[1];
+  for(int i = 0; i < value[2]; i++)
+    ans *= 10;
 
-  cout << (value[0] * 10LL + value[1]) * pow(10LL, value[2]);
+  cout << ans;
 }
