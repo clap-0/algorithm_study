@@ -324,6 +324,7 @@
   |22/08/03|BOJ 1283|[단축키 지정](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1283_%EB%8B%A8%EC%B6%95%ED%82%A4%EC%A7%80%EC%A0%95.java)|구현|JAVA|
   |22/08/04|BOJ 24391|[귀찮은 해강이](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/24391_%EA%B7%80%EC%B0%AE%EC%9D%80%ED%95%B4%EA%B0%95%EC%9D%B4.java)|유니온파인드|JAVA|
   |22/08/05|BOJ 1244|[스위치 켜고 끄기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1244_%EC%8A%A4%EC%9C%84%EC%B9%98%EC%BC%9C%EA%B3%A0%EB%81%84%EA%B8%B0.java)|구현|JAVA|
+  |22/08/06|BOJ 8901|[화학 제품](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/8901_%ED%99%94%ED%95%99%EC%A0%9C%ED%92%88.cpp)|구현/그리디||
   
   </div>
 </details>
