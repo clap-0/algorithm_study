@@ -327,6 +327,7 @@
   |22/08/06|BOJ 8901|[화학 제품](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/8901_%ED%99%94%ED%95%99%EC%A0%9C%ED%92%88.cpp)|구현/그리디||
   |22/08/07|BOJ 1756|[피자 굽기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1756_%ED%94%BC%EC%9E%90%EA%B5%BD%EA%B8%B0.java)|구현/이분탐색|JAVA|
   |22/08/08|BOJ 18405|[경쟁적 전염](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18405_%EA%B2%BD%EC%9F%81%EC%A0%81%EC%A0%84%EC%97%BC.java)|구현/BFS|JAVA|
+  |22/08/09|BOJ 2877|[4와 7](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2877_4%EC%99%807.java)|구현/수학|JAVA|
   
   </div>
 </details>
