@@ -330,6 +330,7 @@
   |22/08/09|BOJ 2877|[4와 7](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2877_4%EC%99%807.java)|구현/수학|JAVA|
   |22/08/10|BOJ 1793|[타일링](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1793_%ED%83%80%EC%9D%BC%EB%A7%81.java)|DP/큰 수 연산|JAVA|
   |22/08/11|BOJ 1360|[되돌리기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1360_%EB%90%98%EB%8F%8C%EB%A6%AC%EA%B8%B0.java)|구현/이분탐색|JAVA|
+  |22/08/12|BOJ 16678|[모독](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16678_%EB%AA%A8%EB%8F%85.java)|그리디/정렬|JAVA|
   
   </div>
 </details>
