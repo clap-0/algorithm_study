@@ -331,6 +331,7 @@
   |22/08/10|BOJ 1793|[타일링](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1793_%ED%83%80%EC%9D%BC%EB%A7%81.java)|DP/큰 수 연산|JAVA|
   |22/08/11|BOJ 1360|[되돌리기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1360_%EB%90%98%EB%8F%8C%EB%A6%AC%EA%B8%B0.java)|구현/이분탐색|JAVA|
   |22/08/12|BOJ 16678|[모독](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16678_%EB%AA%A8%EB%8F%85.java)|그리디/정렬|JAVA|
+  |22/08/13|BOJ 15925|[욱제는 정치쟁이야!!](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15925_%EC%9A%B1%EC%A0%9C%EB%8A%94%EC%A0%95%EC%B9%98%EC%9F%81%EC%9D%B4%EC%95%BC!!.java)|구현|JAVA|
   
   </div>
 </details>
