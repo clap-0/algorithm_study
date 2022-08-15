@@ -333,6 +333,7 @@
   |22/08/12|BOJ 16678|[모독](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16678_%EB%AA%A8%EB%8F%85.java)|그리디/정렬|JAVA|
   |22/08/13|BOJ 15925|[욱제는 정치쟁이야!!](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15925_%EC%9A%B1%EC%A0%9C%EB%8A%94%EC%A0%95%EC%B9%98%EC%9F%81%EC%9D%B4%EC%95%BC!!.java)|구현|JAVA|
   |22/08/14|BOJ 15552|[빠른 A+B](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15552_%EB%B9%A0%EB%A5%B8A%2BB.cpp)|구현/수학||
+  |22/08/15|BOJ 12919|[A와 B 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12919_A%EC%99%80B2.java)|브루트포스/재귀|JAVA|
 
   </div>
 </details>
