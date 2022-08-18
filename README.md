@@ -336,7 +336,7 @@
   |22/08/15|BOJ 12919|[A와 B 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12919_A%EC%99%80B2.java)|브루트포스/재귀|JAVA|
   |22/08/16|BOJ 1461|[도서관](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1461_%EB%8F%84%EC%84%9C%EA%B4%80.java)|그리디|JAVA|
   |22/08/17|BOJ 13904|[과제](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13904_%EA%B3%BC%EC%A0%9C.cpp)|그리디/정렬||
-  
+  |22/08/18|BOJ 1083|[소트](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1083_%EC%86%8C%ED%8A%B8.java)|그리디||
 
   </div>
 </details>
