@@ -339,6 +339,7 @@
   |22/08/18|BOJ 1083|[소트](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1083_%EC%86%8C%ED%8A%B8.java)|그리디|JAVA|
   |22/08/19|BOJ 2457|[공주님의 정원](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2457_%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%98%EC%A0%95%EC%9B%90.cpp)|그리디/정렬||
   |22/08/20|BOJ 6137|[문자열 생성](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6137_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%83%9D%EC%84%B1.java)|그리디/두포인터|JAVA|
+  |22/08/21|BOJ 1105|[팔](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1105_%ED%8C%94.java)|그리디/수학|JAVA|
 
   </div>
 </details>
