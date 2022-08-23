@@ -341,6 +341,7 @@
   |22/08/20|BOJ 6137|[문자열 생성](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6137_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%83%9D%EC%84%B1.java)|그리디/두포인터|JAVA|
   |22/08/21|BOJ 1105|[팔](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1105_%ED%8C%94.java)|그리디/수학|JAVA|
   |22/08/22|BOJ 1263|[시간 관리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1263_%EC%8B%9C%EA%B0%84%EA%B4%80%EB%A6%AC.cpp)|그리디/정렬||
+  |22/08/23|BOJ 13305|[주유소](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13305_%EC%A3%BC%EC%9C%A0%EC%86%8C.cpp)|그리디||
 
   </div>
 </details>
