@@ -342,6 +342,7 @@
   |22/08/21|BOJ 1105|[팔](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1105_%ED%8C%94.java)|그리디/수학|JAVA|
   |22/08/22|BOJ 1263|[시간 관리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1263_%EC%8B%9C%EA%B0%84%EA%B4%80%EB%A6%AC.cpp)|그리디/정렬||
   |22/08/23|BOJ 13305|[주유소](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13305_%EC%A3%BC%EC%9C%A0%EC%86%8C.cpp)|그리디||
+  |22/08/24|BOJ 4889|[안정적인 문자열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/4889_%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8%EB%AC%B8%EC%9E%90%EC%97%B4.java)|그리디|JAVA|
 
   </div>
 </details>
