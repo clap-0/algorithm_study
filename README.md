@@ -346,6 +346,7 @@
   |22/08/25|BOJ 1374|[강의실](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1374_%EA%B0%95%EC%9D%98%EC%8B%A4.java)|그리디/정렬/우선순위큐|JAVA|
   |22/08/26|BOJ 1990|[소수인팰린드롬 ](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1990_%EC%86%8C%EC%88%98%EC%9D%B8%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.java)|소수판정|JAVA|
   |22/08/27|BOJ 1947|[선물 전달](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1947_%EC%84%A0%EB%AC%BC%EC%A0%84%EB%8B%AC.java)|수학/DP|JAVA|
+  |22/08/28|BOJ 2740|[행렬 곱셈](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2740_%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.cpp)|구현/수학||
 
   </div>
 </details>
