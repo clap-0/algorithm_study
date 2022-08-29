@@ -347,6 +347,7 @@
   |22/08/26|BOJ 1990|[소수인팰린드롬 ](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1990_%EC%86%8C%EC%88%98%EC%9D%B8%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.java)|소수판정|JAVA|
   |22/08/27|BOJ 1947|[선물 전달](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1947_%EC%84%A0%EB%AC%BC%EC%A0%84%EB%8B%AC.java)|수학/DP|JAVA|
   |22/08/28|BOJ 2740|[행렬 곱셈](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2740_%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.cpp)|구현/수학||
+  |22/08/29|BOJ 2448|[별 찍기 - 11](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2448_%EB%B3%84%EC%B0%8D%EA%B8%B0-11.java)|분할정복/재귀|JAVA|
 
   </div>
 </details>
