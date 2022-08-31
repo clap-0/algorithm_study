@@ -349,6 +349,7 @@
   |22/08/28|BOJ 2740|[행렬 곱셈](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2740_%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.cpp)|구현/수학||
   |22/08/29|BOJ 2448|[별 찍기 - 11](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2448_%EB%B3%84%EC%B0%8D%EA%B8%B0-11.java)|분할정복/재귀|JAVA|
   |22/08/30|BOJ 1009|[분산처리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1009_%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC.java)|수학|JAVA|
+  |22/08/31|BOJ 1015|[수열 정렬](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1015_%EC%88%98%EC%97%B4%EC%A0%95%EB%A0%AC.cpp)|정렬||
 
   </div>
 </details>
