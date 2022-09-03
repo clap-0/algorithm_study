@@ -365,7 +365,7 @@
   |:--:|:--:|:--:|:--:|:--:|
   |22/09/01|BOJ 1181|[단어 정렬](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1181_%EB%8B%A8%EC%96%B4%EC%A0%95%EB%A0%AC.cpp)|정렬||
   |22/09/02|BOJ 6549|[히스토그램에서 가장 큰 직사각형](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6549_%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8%EC%97%90%EC%84%9C%EA%B0%80%EC%9E%A5%ED%81%B0%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.java)|분할정복/그리디|JAVA|
-
+  |22/09/03|BOJ 8983|[사냥꾼](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/8983_%EC%82%AC%EB%83%A5%EA%BE%BC.cpp)|이분탐색/정렬||
 
   </div>
 </details>
