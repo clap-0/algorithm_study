@@ -368,6 +368,7 @@
   |22/09/03|BOJ 8983|[사냥꾼](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/8983_%EC%82%AC%EB%83%A5%EA%BE%BC.cpp)|이분탐색/정렬||
   |22/09/04|BOJ 2878|[캔디캔디](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2878_%EC%BA%94%EB%94%94%EC%BA%94%EB%94%94.cpp)|그리디/이분탐색/누적합||
   |22/09/05|BOJ 18222|[투에-모스 문자열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18222_%ED%88%AC%EC%97%90-%EB%AA%A8%EC%8A%A4%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)|재귀/분할정복||
+  |22/09/06|BOJ 5904|[Moo 게임](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/5904_Moo%EA%B2%8C%EC%9E%84.cpp)|재귀/분할정복||
 
   </div>
 </details>
