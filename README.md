@@ -370,6 +370,7 @@
   |22/09/05|BOJ 18222|[투에-모스 문자열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18222_%ED%88%AC%EC%97%90-%EB%AA%A8%EC%8A%A4%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)|재귀/분할정복||
   |22/09/06|BOJ 5904|[Moo 게임](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/5904_Moo%EA%B2%8C%EC%9E%84.cpp)|재귀/분할정복||
   |22/09/07|BOJ 10816|[숫자 카드 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10816_%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C2.cpp)|정렬/이분탐색||
+  |22/09/08|BOJ 1002|[터렛](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1002_%ED%84%B0%EB%A0%9B.cpp)|수학||
 
   </div>
 </details>
