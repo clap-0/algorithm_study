@@ -373,6 +373,7 @@
   |22/09/08|BOJ 1002|[터렛](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1002_%ED%84%B0%EB%A0%9B.cpp)|수학||
   |22/09/09|BOJ 1264|[모음의 개수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1264_%EB%AA%A8%EC%9D%8C%EC%9D%98%EA%B0%9C%EC%88%98.cpp)|구현||
   |22/09/10|BOJ 2083|[럭비 클럽](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2083_%EB%9F%AD%EB%B9%84%ED%81%B4%EB%9F%BD.cpp)|구현||
+  |22/09/11|BOJ 2440|[별 찍기 - 3](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2440_%EB%B3%84%EC%B0%8D%EA%B8%B0-3.cpp)|구현||
 
   </div>
 </details>
