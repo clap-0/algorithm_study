@@ -375,6 +375,7 @@
   |22/09/10|BOJ 2083|[럭비 클럽](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2083_%EB%9F%AD%EB%B9%84%ED%81%B4%EB%9F%BD.cpp)|구현||
   |22/09/11|BOJ 2440|[별 찍기 - 3](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2440_%EB%B3%84%EC%B0%8D%EA%B8%B0-3.cpp)|구현||
   |22/09/12|BOJ 1124|[언더프라임](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1124_%EC%96%B8%EB%8D%94%ED%94%84%EB%9D%BC%EC%9E%84.cpp)|소수판정||
+  |22/09/13|BOJ 1166|[선물](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1166_%EC%84%A0%EB%AC%BC.cpp)|이분탐색||
 
   </div>
 </details>
