@@ -380,6 +380,7 @@
   |22/09/15|BOJ 12026|[BOJ 거리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12026_BOJ%EA%B1%B0%EB%A6%AC.cpp)|DP||
   |22/09/16|BOJ 2780|[비밀번호](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2780_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.cpp)|DP||
   |22/09/17|BOJ 17626|[Four Squares](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17626_FourSquares.cpp)|DP||
+  |22/09/18|BOJ 15724|[주지수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15724_%EC%A3%BC%EC%A7%80%EC%88%98.cpp)|DP||
 
   </div>
 </details>
