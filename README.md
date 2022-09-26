@@ -387,6 +387,7 @@
   |22/09/23|BOJ 1547|[공](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1547_%EA%B3%B5.cpp)|구현||
   |22/09/24|BOJ 1446|[지름길](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1446_%EC%A7%80%EB%A6%84%EA%B8%B8.cpp)|DP/그래프||
   |22/09/25|BOJ 1660|[캡틴 이다솜](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1660_%EC%BA%A1%ED%8B%B4%EC%9D%B4%EB%8B%A4%EC%86%9C.cpp)|DP||
+  |22/09/26|BOJ 7287|[등록](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/7287_%EB%93%B1%EB%A1%9D.cpp)|구현||
 
   </div>
 </details>
