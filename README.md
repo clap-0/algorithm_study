@@ -389,6 +389,7 @@
   |22/09/25|BOJ 1660|[캡틴 이다솜](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1660_%EC%BA%A1%ED%8B%B4%EC%9D%B4%EB%8B%A4%EC%86%9C.cpp)|DP||
   |22/09/26|BOJ 7287|[등록](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/7287_%EB%93%B1%EB%A1%9D.cpp)|구현||
   |22/09/27|BOJ 1037|[약수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1037_%EC%95%BD%EC%88%98.cpp)|수학||
+  |22/09/28|BOJ 21870|[시철이가 사랑한 GCD](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/21870_%EC%8B%9C%EC%B2%A0%EC%9D%B4%EA%B0%80%EC%82%AC%EB%9E%91%ED%95%9CGCD.cpp)|분할정복/유클리드호제법||
 
   </div>
 </details>
