@@ -392,7 +392,21 @@
   |22/09/28|BOJ 21870|[시철이가 사랑한 GCD](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/21870_%EC%8B%9C%EC%B2%A0%EC%9D%B4%EA%B0%80%EC%82%AC%EB%9E%91%ED%95%9CGCD.cpp)|분할정복/유클리드호제법||
   |22/09/29|BOJ 1388|[바닥 장식](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1388_%EB%B0%94%EB%8B%A5%EC%9E%A5%EC%8B%9D.cpp)|DFS||
   |22/09/30|BOJ 2108|[통계학](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2108_%ED%86%B5%EA%B3%84%ED%95%99.cpp)|수학/구현||
+  
+  </div>
+</details>
 
+---
+
+### 2021/10
+<details value="Details">
+  <summary>Details</summary>
+  <div markdown="1">
+    
+  |Date|#|Title|Solution|Remarks|
+  |:--:|:--:|:--:|:--:|:--:|
+  |22/10/01|BOJ 1100|[하얀 칸](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1100_%ED%95%98%EC%96%80%EC%B9%B8.cpp)|구현||
+  
   </div>
 </details>
 
