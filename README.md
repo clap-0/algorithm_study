@@ -406,6 +406,7 @@
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
   |22/10/01|BOJ 1100|[하얀 칸](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1100_%ED%95%98%EC%96%80%EC%B9%B8.cpp)|구현||
+  |22/10/02|BOJ 1049|[기타줄](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1049_%EA%B8%B0%ED%83%80%EC%A4%84.cpp)|그리디||
   
   </div>
 </details>
