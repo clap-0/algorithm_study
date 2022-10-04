@@ -408,7 +408,8 @@
   |22/10/01|BOJ 1100|[하얀 칸](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1100_%ED%95%98%EC%96%80%EC%B9%B8.cpp)|구현||
   |22/10/02|BOJ 1049|[기타줄](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1049_%EA%B8%B0%ED%83%80%EC%A4%84.cpp)|그리디||
   |22/10/03|BOJ 5095|[Matrix Powers](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/5095_MatrixPowers.cpp)|분할정복/수학||
-  
+  |22/10/04|BOJ 6597|[트리 복구](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6597_%ED%8A%B8%EB%A6%AC%EB%B3%B5%EA%B5%AC.cpp)|분할정복/트리||
+    
   </div>
 </details>
 
