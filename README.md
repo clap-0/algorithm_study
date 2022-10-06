@@ -410,6 +410,7 @@
   |22/10/03|BOJ 5095|[Matrix Powers](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/5095_MatrixPowers.cpp)|분할정복/수학||
   |22/10/04|BOJ 6597|[트리 복구](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6597_%ED%8A%B8%EB%A6%AC%EB%B3%B5%EA%B5%AC.cpp)|분할정복/트리||
   |22/10/05|BOJ 24460|[특별상이라도 받고 싶어](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/24460_%ED%8A%B9%EB%B3%84%EC%83%81%EC%9D%B4%EB%9D%BC%EB%8F%84%EB%B0%9B%EA%B3%A0%EC%8B%B6%EC%96%B4.cpp)|분할정복||
+  |22/10/06|BOJ 11582|[치킨 TOP N](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11582_%EC%B9%98%ED%82%A8TOPN.cpp)|분할정복/정렬|Mergesort|
     
   </div>
 </details>
