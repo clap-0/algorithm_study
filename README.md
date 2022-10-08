@@ -412,6 +412,7 @@
   |22/10/05|BOJ 24460|[특별상이라도 받고 싶어](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/24460_%ED%8A%B9%EB%B3%84%EC%83%81%EC%9D%B4%EB%9D%BC%EB%8F%84%EB%B0%9B%EA%B3%A0%EC%8B%B6%EC%96%B4.cpp)|분할정복||
   |22/10/06|BOJ 11582|[치킨 TOP N](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11582_%EC%B9%98%ED%82%A8TOPN.cpp)|분할정복/정렬|Mergesort|
   |22/10/07|BOJ 1251|[단어 나누기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1251_%EB%8B%A8%EC%96%B4%EB%82%98%EB%88%84%EA%B8%B0.cpp)|브루트포스/구현||
+  |22/10/08|BOJ 1414|[불우이웃돕기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1414_%EB%B6%88%EC%9A%B0%EC%9D%B4%EC%9B%83%EB%8F%95%EA%B8%B0.cpp)|MST||
 
   </div>
 </details>
