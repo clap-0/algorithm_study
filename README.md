@@ -413,6 +413,7 @@
   |22/10/06|BOJ 11582|[치킨 TOP N](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11582_%EC%B9%98%ED%82%A8TOPN.cpp)|분할정복/정렬|Mergesort|
   |22/10/07|BOJ 1251|[단어 나누기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1251_%EB%8B%A8%EC%96%B4%EB%82%98%EB%88%84%EA%B8%B0.cpp)|브루트포스/구현||
   |22/10/08|BOJ 1414|[불우이웃돕기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1414_%EB%B6%88%EC%9A%B0%EC%9D%B4%EC%9B%83%EB%8F%95%EA%B8%B0.cpp)|MST||
+  |22/10/09|BOJ 1189|[컴백홈](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1189_%EC%BB%B4%EB%B0%B1%ED%99%88.cpp)|백트래킹||
 
   </div>
 </details>
