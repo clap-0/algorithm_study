@@ -418,6 +418,7 @@
   |22/10/11|BOJ 4907|[월쉬 행렬](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/4907_%EC%9B%94%EC%89%AC%ED%96%89%EB%A0%AC.cpp)|분할정복||
   |22/10/12|BOJ 1297|[TV 크기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1297_TV%ED%81%AC%EA%B8%B0.cpp)|수학||
   |22/10/13|BOJ 17297|[Messi Gimossi](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17297_MessiGimossi.cpp)|분할정복/DP||
+  |22/10/14|BOJ 1141|[접두사](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1141_%EC%A0%91%EB%91%90%EC%82%AC.cpp)|정렬/문자열||
 
   </div>
 </details>
