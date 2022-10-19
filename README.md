@@ -423,6 +423,7 @@
   |22/10/16|BOJ 11265|[끝나지 않는 파티](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11265_%EB%81%9D%EB%82%98%EC%A7%80%EC%95%8A%EB%8A%94%ED%8C%8C%ED%8B%B0.cpp)|플로이드||
   |22/10/17|BOJ 2224|[명제 증명](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2224_%EB%AA%85%EC%A0%9C%EC%A6%9D%EB%AA%85.cpp)|플로이드||
   |22/10/18|BOJ 3075|[Astromeeting](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3075_Astromeeting.cpp)|플로이드||
+  |22/10/19|BOJ 2219|[보안 시스템 설치](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2219_%EB%B3%B4%EC%95%88%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%84%A4%EC%B9%98.cpp)|플로이드||
 
   </div>
 </details>
