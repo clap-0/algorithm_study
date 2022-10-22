@@ -426,6 +426,7 @@
   |22/10/19|BOJ 2219|[보안 시스템 설치](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2219_%EB%B3%B4%EC%95%88%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%84%A4%EC%B9%98.cpp)|플로이드||
   |22/10/20|BOJ 13424|[비밀 모임](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13424_%EB%B9%84%EB%B0%80%EB%AA%A8%EC%9E%84.cpp)|플로이드||
   |22/10/21|BOJ 16395|[파스칼의 삼각형](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16395_%ED%8C%8C%EC%8A%A4%EC%B9%BC%EC%9D%98%EC%82%BC%EA%B0%81%ED%98%95.cpp)|DP/수학||
+  |22/10/22|BOJ 14495|[피보나치 비스무리한 수열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14495_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EB%B9%84%EC%8A%A4%EB%AC%B4%EB%A6%AC%ED%95%9C%EC%88%98%EC%97%B4.cpp)|DP||
     
   </div>
 </details>
