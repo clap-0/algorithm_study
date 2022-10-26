@@ -430,6 +430,7 @@
   |22/10/23|BOJ 1342|[행운의 문자열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1342_%ED%96%89%EC%9A%B4%EC%9D%98%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)|브루트포스||
   |22/10/24|BOJ 1527|[금민수의 개수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1527_%EA%B8%88%EB%AF%BC%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98.cpp)|브루트포스||
   |22/10/25|BOJ 2841|[외계인의 기타 연주](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2841_%EC%99%B8%EA%B3%84%EC%9D%B8%EC%9D%98%EA%B8%B0%ED%83%80%EC%97%B0%EC%A3%BC.cpp)|스택||
+  |22/10/26|BOJ 3184|[양](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3184_%EC%96%91.cpp)|DFS||
     
   </div>
 </details>
