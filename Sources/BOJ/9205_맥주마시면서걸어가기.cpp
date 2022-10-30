@@ -40,7 +40,7 @@ int main()
         if (!visited[i] && abs(x - nx) + abs(y - ny) <= 1000)
         {
           visited[i] = true;
-          Q.push({ny, nx});
+          Q.push({nx, ny});
         }
       }
     }
