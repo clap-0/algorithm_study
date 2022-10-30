@@ -432,6 +432,7 @@
   |22/10/25|BOJ 2841|[외계인의 기타 연주](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2841_%EC%99%B8%EA%B3%84%EC%9D%B8%EC%9D%98%EA%B8%B0%ED%83%80%EC%97%B0%EC%A3%BC.cpp)|스택||
   |22/10/26|BOJ 3184|[양](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3184_%EC%96%91.cpp)|DFS||
   |22/10/29|BOJ 9205|[맥주 마시면서 걸어가기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9205_%EB%A7%A5%EC%A3%BC%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0.cpp)|BFS||
+  |22/10/30|BOJ 1904|[01타일](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1904_01%ED%83%80%EC%9D%BC.cpp)|DP||
     
   </div>
 </details>
