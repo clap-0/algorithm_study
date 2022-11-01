@@ -439,3 +439,18 @@
 </details>
 
 ---
+
+### 2022/11
+<details value="Details">
+  <summary>Details</summary>
+  <div markdown="1">
+    
+  |Date|#|Title|Solution|Remarks|
+  |:--:|:--:|:--:|:--:|:--:|
+  |22/11/01|BOJ 14590|[KUBC League (Small)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14590_KUBCLeague(Small).cpp)|DFS||
+    
+  </div>
+</details>
+
+---
+
