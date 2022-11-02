@@ -448,6 +448,7 @@
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
   |22/11/01|BOJ 14590|[KUBC League (Small)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14590_KUBCLeague(Small).cpp)|DFS||
+  |22/11/02|BOJ 23255|[구름다리 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/23255_%EA%B5%AC%EB%A6%84%EB%8B%A4%EB%A6%AC2.cpp)|그리디||
     
   </div>
 </details>
