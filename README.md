@@ -451,6 +451,7 @@
   |22/11/02|BOJ 23255|[구름다리 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/23255_%EA%B5%AC%EB%A6%84%EB%8B%A4%EB%A6%AC2.cpp)|그리디||
   |22/11/03|BOJ 24392|[영재의 징검다리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/24392_%EC%98%81%EC%9E%AC%EC%9D%98%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.cpp)|DP||
   |22/11/04|BOJ 2864|[5와 6의 차이](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2864_5%EC%99%806%EC%9D%98%EC%B0%A8%EC%9D%B4.cpp)|그리디||
+  |22/11/05|BOJ 1584|[게임](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1584_%EA%B2%8C%EC%9E%84.cpp)|데이크스트라||
   
   </div>
 </details>
