@@ -453,6 +453,7 @@
   |22/11/04|BOJ 2864|[5와 6의 차이](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2864_5%EC%99%806%EC%9D%98%EC%B0%A8%EC%9D%B4.cpp)|그리디||
   |22/11/05|BOJ 1584|[게임](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1584_%EA%B2%8C%EC%9E%84.cpp)|데이크스트라||
   |22/11/06|BOJ 22871|[징검다리 건너기 (large)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22871_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0(large).cpp)|DP||
+  |22/11/07|BOJ 14916|[거스름돈](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14916_%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.cpp)|그리디||
   
   </div>
 </details>
