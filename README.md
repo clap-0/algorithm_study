@@ -456,6 +456,7 @@
   |22/11/07|BOJ 14916|[거스름돈](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14916_%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.cpp)|그리디||
   |22/11/08|BOJ 16398|[행성 연결](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16398_%ED%96%89%EC%84%B1%EC%97%B0%EA%B2%B0.cpp)|MST|Prim||
   |22/11/09|BOJ 10699|[오늘 날짜](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10699_%EC%98%A4%EB%8A%98%EB%82%A0%EC%A7%9C.cpp)|구현||
+  |22/11/10|BOJ 21758|[꿀 따기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/21758_%EA%BF%80%EB%94%B0%EA%B8%B0.cpp)|그리디/누적합||
 
   </div>
 </details>
