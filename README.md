@@ -458,6 +458,7 @@
   |22/11/09|BOJ 10699|[오늘 날짜](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10699_%EC%98%A4%EB%8A%98%EB%82%A0%EC%A7%9C.cpp)|구현||
   |22/11/10|BOJ 21758|[꿀 따기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/21758_%EA%BF%80%EB%94%B0%EA%B8%B0.cpp)|그리디/누적합||
   |22/11/11|BOJ 6068|[시간 관리하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6068_%EC%8B%9C%EA%B0%84%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0.cpp)|그리디/정렬||
+  |22/11/12|BOJ 25391|[특별상](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25391_%ED%8A%B9%EB%B3%84%EC%83%81.cpp)|그리디/정렬||
 
   </div>
 </details>
