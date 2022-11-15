@@ -461,6 +461,7 @@
   |22/11/12|BOJ 25391|[특별상](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25391_%ED%8A%B9%EB%B3%84%EC%83%81.cpp)|그리디/정렬||
   |22/11/13|BOJ 2258|[정육점](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2258_%EC%A0%95%EC%9C%A1%EC%A0%90.cpp)|그리디/정렬||
   |22/11/14|BOJ 2036|[수열의 점수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2036_%EC%88%98%EC%97%B4%EC%9D%98%EC%A0%90%EC%88%98.cpp)|그리디/정렬||
+  |22/11/15|BOJ 7983|[내일 할거야](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/7983_%EB%82%B4%EC%9D%BC%ED%95%A0%EA%B1%B0%EC%95%BC.cpp)|그리디/정렬||
 
   </div>
 </details>
