@@ -463,6 +463,7 @@
   |22/11/14|BOJ 2036|[수열의 점수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2036_%EC%88%98%EC%97%B4%EC%9D%98%EC%A0%90%EC%88%98.cpp)|그리디/정렬||
   |22/11/15|BOJ 7983|[내일 할거야](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/7983_%EB%82%B4%EC%9D%BC%ED%95%A0%EA%B1%B0%EC%95%BC.cpp)|그리디/정렬||
   |22/11/16|BOJ 2720|[세탁소 사장 동혁](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2720_%EC%84%B8%ED%83%81%EC%86%8C%EC%82%AC%EC%9E%A5%EB%8F%99%ED%98%81.cpp)|그리디||
+  |22/11/17|BOJ 9237|[이장님 초대](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9237_%EC%9D%B4%EC%9E%A5%EB%8B%98%EC%B4%88%EB%8C%80.cpp)|그리디/정렬||
 
   </div>
 </details>
