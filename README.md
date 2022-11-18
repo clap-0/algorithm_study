@@ -464,6 +464,7 @@
   |22/11/15|BOJ 7983|[내일 할거야](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/7983_%EB%82%B4%EC%9D%BC%ED%95%A0%EA%B1%B0%EC%95%BC.cpp)|그리디/정렬||
   |22/11/16|BOJ 2720|[세탁소 사장 동혁](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2720_%EC%84%B8%ED%83%81%EC%86%8C%EC%82%AC%EC%9E%A5%EB%8F%99%ED%98%81.cpp)|그리디||
   |22/11/17|BOJ 9237|[이장님 초대](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9237_%EC%9D%B4%EC%9E%A5%EB%8B%98%EC%B4%88%EB%8C%80.cpp)|그리디/정렬||
+  |22/11/18|BOJ 2828|[사과 담기 게임](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2828_%EC%82%AC%EA%B3%BC%EB%8B%B4%EA%B8%B0%EA%B2%8C%EC%9E%84.cpp)|그리디||
 
   </div>
 </details>
