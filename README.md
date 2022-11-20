@@ -466,6 +466,7 @@
   |22/11/17|BOJ 9237|[이장님 초대](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9237_%EC%9D%B4%EC%9E%A5%EB%8B%98%EC%B4%88%EB%8C%80.cpp)|그리디/정렬||
   |22/11/18|BOJ 2828|[사과 담기 게임](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2828_%EC%82%AC%EA%B3%BC%EB%8B%B4%EA%B8%B0%EA%B2%8C%EC%9E%84.cpp)|그리디||
   |22/11/19|BOJ 13413|[오셀로 재배치](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13413_%EC%98%A4%EC%85%80%EB%A1%9C%EC%9E%AC%EB%B0%B0%EC%B9%98.cpp)|그리디||
+  |22/11/20|BOJ 21924|[도시 건설](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/21924_%EB%8F%84%EC%8B%9C%EA%B1%B4%EC%84%A4.cpp)|MST|Kruskal|
 
   </div>
 </details>
