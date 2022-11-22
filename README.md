@@ -468,6 +468,7 @@
   |22/11/19|BOJ 13413|[오셀로 재배치](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13413_%EC%98%A4%EC%85%80%EB%A1%9C%EC%9E%AC%EB%B0%B0%EC%B9%98.cpp)|그리디||
   |22/11/20|BOJ 21924|[도시 건설](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/21924_%EB%8F%84%EC%8B%9C%EA%B1%B4%EC%84%A4.cpp)|MST|Kruskal|
   |22/11/21|BOJ 14487|[욱제는 효도쟁이야!!](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14487_%EC%9A%B1%EC%A0%9C%EB%8A%94%ED%9A%A8%EB%8F%84%EC%9F%81%EC%9D%B4%EC%95%BC!!.cpp)|그리디||
+  |22/11/22|BOJ 15664|[N과 M (10)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15664_N%EA%B3%BCM(10).cpp)|백트래킹||
 
   </div>
 </details>
