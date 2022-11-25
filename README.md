@@ -471,6 +471,7 @@
   |22/11/22|BOJ 15664|[N과 M (10)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15664_N%EA%B3%BCM(10).cpp)|백트래킹||
   |22/11/23|BOJ 6211|[The Eating Puzzle](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6211_TheEatingPuzzle.cpp)|백트래킹||
   |22/11/24|BOJ 15649|[N과 M (1)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15649_N%EA%B3%BCM(1).cpp)|백트래킹||
+  |22/11/25|BOJ 15651|[N과 M (3)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15651_N%EA%B3%BCM(3).cpp)|백트래킹||
 
   </div>
 </details>
