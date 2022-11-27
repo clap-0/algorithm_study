@@ -473,6 +473,7 @@
   |22/11/24|BOJ 15649|[N과 M (1)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15649_N%EA%B3%BCM(1).cpp)|백트래킹||
   |22/11/25|BOJ 15651|[N과 M (3)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15651_N%EA%B3%BCM(3).cpp)|백트래킹||
   |22/11/26|BOJ 6603|[로또](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6603_%EB%A1%9C%EB%98%90.cpp)|백트래킹||
+  |22/11/27|BOJ 7490|[0 만들기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/7490_0%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|브루트포스||
 
   </div>
 </details>
