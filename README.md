@@ -476,6 +476,7 @@
   |22/11/27|BOJ 7490|[0 만들기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/7490_0%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|브루트포스||
   |22/11/28|BOJ 16493|[최대 페이지 수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16493_%EC%B5%9C%EB%8C%80%ED%8E%98%EC%9D%B4%EC%A7%80%EC%88%98.cpp)|분기한정법|0-1 Knapsack|
   |22/11/29|PG|[폰켓몬](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/%ED%8F%B0%EC%BC%93%EB%AA%AC.cpp)|자료구조/해시||
+  |22/11/30|BOJ 2558|[A+B - 2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2558_A%2BB-2.cpp)|구현||
 
   </div>
 </details>
