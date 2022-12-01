@@ -483,3 +483,16 @@
 
 ---
 
+### 2022/12
+<details value="Details">
+  <summary>Details</summary>
+  <div markdown="1">
+    
+  |Date|#|Title|Solution|Remarks|
+  |:--:|:--:|:--:|:--:|:--:|
+  |22/12/01|BOJ 10974|[모든 순열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10974_%EB%AA%A8%EB%93%A0%EC%88%9C%EC%97%B4.cpp)|브루트포스||
+
+  </div>
+</details>
+
+---
