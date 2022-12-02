@@ -491,6 +491,7 @@
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
   |22/12/01|BOJ 10974|[모든 순열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10974_%EB%AA%A8%EB%93%A0%EC%88%9C%EC%97%B4.cpp)|브루트포스||
+  |22/12/02|BOJ 1417|[국회의원 선거](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1417_%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%9B%90%EC%84%A0%EA%B1%B0.cpp)|우선순위큐/그리디||
 
   </div>
 </details>
