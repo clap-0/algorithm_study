@@ -495,6 +495,7 @@
   |22/12/03|BOJ 15665|[N과 M (11)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15665_N%EA%B3%BCM(11).cpp)|백트래킹/정렬||
   |22/12/04|BOJ 15483|[최소 편집](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15483_%EC%B5%9C%EC%86%8C%ED%8E%B8%EC%A7%91.cpp)|DP|Edit Distance|
   |22/12/05|BOJ 12931|[두 배 더하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12931_%EB%91%90%EB%B0%B0%EB%8D%94%ED%95%98%EA%B8%B0.cpp)|그리디||
+  |22/12/06|BOJ 14247|[나무 자르기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14247_%EB%82%98%EB%AC%B4%EC%9E%90%EB%A5%B4%EA%B8%B0.cpp)|그리디||
 
   </div>
 </details>
