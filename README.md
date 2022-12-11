@@ -499,6 +499,7 @@
   |22/12/07|BOJ 16206|[롤케이크](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16206_%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC.cpp)|그리디||
   |22/12/08|BOJ 24390|[또 전자레인지야?](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/24390_%EB%98%90%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80%EC%95%BC%3F.cpp)|그리디||
   |22/12/09|BOJ 20207|[달력](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20207_%EB%8B%AC%EB%A0%A5.cpp)|그리디||
+  |22/12/11|BOJ 10718|[We love kriii](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10718_Welovekriii.cpp)|구현||
   
   </div>
 </details>
