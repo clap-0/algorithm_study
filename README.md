@@ -500,6 +500,7 @@
   |22/12/08|BOJ 24390|[또 전자레인지야?](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/24390_%EB%98%90%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80%EC%95%BC%3F.cpp)|그리디||
   |22/12/09|BOJ 20207|[달력](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20207_%EB%8B%AC%EB%A0%A5.cpp)|그리디||
   |22/12/11|BOJ 10718|[We love kriii](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10718_Welovekriii.cpp)|구현||
+  |22/12/12|BOJ 9020|[골드바흐의 추측](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9020_%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%EC%B6%94%EC%B8%A1.cpp)|소수판정||
   
   </div>
 </details>
