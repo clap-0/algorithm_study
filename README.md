@@ -504,6 +504,7 @@
   |22/12/13|BOJ 18108|[1998년생인 내가 태국에서는 2541년생?!](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18108_1998%EB%85%84%EC%83%9D%EC%9D%B8%EB%82%B4%EA%B0%80%ED%83%9C%EA%B5%AD%EC%97%90%EC%84%9C%EB%8A%942541%EB%85%84%EC%83%9D%3F!.cpp)|구현||
   |22/12/14|BOJ 1246|[온라인 판매](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1246_%EC%98%A8%EB%9D%BC%EC%9D%B8%ED%8C%90%EB%A7%A4.cpp)|그리디/정렬||
   |22/12/15|BOJ 11650|[좌표 정렬하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11650_%EC%A2%8C%ED%91%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.cpp)|정렬||
+  |22/12/17|BOJ 1874|[스택 수열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1874_%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.cpp)|스택||
   
   </div>
 </details>
