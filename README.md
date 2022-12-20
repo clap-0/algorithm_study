@@ -507,6 +507,7 @@
   |22/12/17|BOJ 1874|[스택 수열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1874_%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.cpp)|스택||
   |22/12/18|BOJ 17255|[N으로 만들기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17255_N%EC%9C%BC%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|백트래킹||
   |22/12/19|BOJ 22868|[산책 (small)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22868_%EC%82%B0%EC%B1%85(small).cpp)|BFS||
+  |22/12/20|BOJ 25083|[새싹](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25083_%EC%83%88%EC%8B%B9.cpp)|구현||
   
   </div>
 </details>
