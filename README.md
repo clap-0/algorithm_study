@@ -508,6 +508,7 @@
   |22/12/18|BOJ 17255|[N으로 만들기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17255_N%EC%9C%BC%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|백트래킹||
   |22/12/19|BOJ 22868|[산책 (small)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22868_%EC%82%B0%EC%B1%85(small).cpp)|BFS||
   |22/12/20|BOJ 25083|[새싹](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25083_%EC%83%88%EC%8B%B9.cpp)|구현||
+  |22/12/21|BOJ 23888|[등차수열과 쿼리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/23888_%EB%93%B1%EC%B0%A8%EC%88%98%EC%97%B4%EA%B3%BC%EC%BF%BC%EB%A6%AC.cpp)|수학/유클리드호제법||
   
   </div>
 </details>
