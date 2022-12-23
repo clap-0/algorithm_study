@@ -509,6 +509,7 @@
   |22/12/19|BOJ 22868|[산책 (small)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22868_%EC%82%B0%EC%B1%85(small).cpp)|BFS||
   |22/12/20|BOJ 25083|[새싹](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25083_%EC%83%88%EC%8B%B9.cpp)|구현||
   |22/12/21|BOJ 23888|[등차수열과 쿼리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/23888_%EB%93%B1%EC%B0%A8%EC%88%98%EC%97%B4%EA%B3%BC%EC%BF%BC%EB%A6%AC.cpp)|수학/유클리드호제법||
+  |22/12/22|BOJ 11811|[데스스타](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11811_%EB%8D%B0%EC%8A%A4%EC%8A%A4%ED%83%80.cpp)|비트마스킹||
   
   </div>
 </details>
