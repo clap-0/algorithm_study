@@ -512,6 +512,7 @@
   |22/12/23|BOJ 11811|[데스스타](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11811_%EB%8D%B0%EC%8A%A4%EC%8A%A4%ED%83%80.cpp)|비트마스킹||
   |22/12/24|BOJ 22233|[가희와 키워드](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22233_%EA%B0%80%ED%9D%AC%EC%99%80%ED%82%A4%EC%9B%8C%EB%93%9C.cpp)|문자열/해시||
   |22/12/25|BOJ 11812|[K진 트리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11812_K%EC%A7%84%ED%8A%B8%EB%A6%AC.cpp)|트리/수학|LCA|
+  |22/12/26|BOJ 2151|[거울 설치](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2151_%EA%B1%B0%EC%9A%B8%EC%84%A4%EC%B9%98.cpp)|BFS||
 
   </div>
 </details>
