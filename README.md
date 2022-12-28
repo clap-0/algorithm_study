@@ -514,6 +514,7 @@
   |22/12/25|BOJ 11812|[K진 트리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11812_K%EC%A7%84%ED%8A%B8%EB%A6%AC.cpp)|트리/수학|LCA|
   |22/12/26|BOJ 2151|[거울 설치](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2151_%EA%B1%B0%EC%9A%B8%EC%84%A4%EC%B9%98.cpp)|BFS||
   |22/12/27|BOJ 13910|[개업](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13910_%EA%B0%9C%EC%97%85.cpp)|DP/해시||
+  |22/12/28|BOJ 1765|[닭싸움 팀 정하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1765_%EB%8B%AD%EC%8B%B8%EC%9B%80%ED%8C%80%EC%A0%95%ED%95%98%EA%B8%B0.cpp)|유니온파인드||
 
   </div>
 </details>
