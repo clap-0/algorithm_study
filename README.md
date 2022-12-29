@@ -515,6 +515,7 @@
   |22/12/26|BOJ 2151|[거울 설치](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2151_%EA%B1%B0%EC%9A%B8%EC%84%A4%EC%B9%98.cpp)|BFS||
   |22/12/27|BOJ 13910|[개업](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13910_%EA%B0%9C%EC%97%85.cpp)|DP/해시||
   |22/12/28|BOJ 1765|[닭싸움 팀 정하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1765_%EB%8B%AD%EC%8B%B8%EC%9B%80%ED%8C%80%EC%A0%95%ED%95%98%EA%B8%B0.cpp)|유니온파인드||
+  |22/12/29|BOJ 15489|[파스칼 삼각형](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15489_%ED%8C%8C%EC%8A%A4%EC%B9%BC%EC%82%BC%EA%B0%81%ED%98%95.cpp)|DP||
 
   </div>
 </details>
