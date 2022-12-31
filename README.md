@@ -517,6 +517,7 @@
   |22/12/28|BOJ 1765|[닭싸움 팀 정하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1765_%EB%8B%AD%EC%8B%B8%EC%9B%80%ED%8C%80%EC%A0%95%ED%95%98%EA%B8%B0.cpp)|유니온파인드||
   |22/12/29|BOJ 15489|[파스칼 삼각형](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15489_%ED%8C%8C%EC%8A%A4%EC%B9%BC%EC%82%BC%EA%B0%81%ED%98%95.cpp)|DP||
   |22/12/30|BOJ 18223|[민준이와 마산 그리고 건우](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18223_%EB%AF%BC%EC%A4%80%EC%9D%B4%EC%99%80%EB%A7%88%EC%82%B0%EA%B7%B8%EB%A6%AC%EA%B3%A0%EA%B1%B4%EC%9A%B0.cpp)|데이크스트라||
+  |22/12/31|BOJ 23061|[백남이의 여행 준비](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/23061_%EB%B0%B1%EB%82%A8%EC%9D%B4%EC%9D%98%EC%97%AC%ED%96%89%EC%A4%80%EB%B9%84.cpp)|DP||
 
   </div>
 </details>
