@@ -16,6 +16,7 @@
   |23/01/04|BOJ 2420|[사파리월드](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2420_%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%9B%94%EB%93%9C.cpp)|수학||
   |23/01/05|BOJ 1326|[폴짝폴짝](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1326_%ED%8F%B4%EC%A7%9D%ED%8F%B4%EC%A7%9D.cpp)|BFS||
   |23/01/06|BOJ 2231|[분해합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2231_%EB%B6%84%ED%95%B4%ED%95%A9.cpp)|브루트포스||
+  |23/01/07|BOJ 1430|[공격](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1430_%EA%B3%B5%EA%B2%A9.cpp)|BFS||
 
   </div>
 </details>
