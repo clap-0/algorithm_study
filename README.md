@@ -18,6 +18,7 @@
   |23/01/06|BOJ 2231|[분해합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2231_%EB%B6%84%ED%95%B4%ED%95%A9.cpp)|브루트포스||
   |23/01/07|BOJ 1430|[공격](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1430_%EA%B3%B5%EA%B2%A9.cpp)|BFS||
   |23/01/08|BOJ 1195|[킥다운](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1195_%ED%82%A5%EB%8B%A4%EC%9A%B4.cpp)|구현/브루트포스||
+  |23/01/09|BOJ 1120|[문자열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1120_%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)|브루트포스||
 
   </div>
 </details>
