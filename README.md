@@ -19,6 +19,7 @@
   |23/01/07|BOJ 1430|[공격](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1430_%EA%B3%B5%EA%B2%A9.cpp)|BFS||
   |23/01/08|BOJ 1195|[킥다운](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1195_%ED%82%A5%EB%8B%A4%EC%9A%B4.cpp)|구현/브루트포스||
   |23/01/09|BOJ 1120|[문자열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1120_%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)|브루트포스||
+  |23/01/10|BOJ 6198|[옥상 정원 꾸미기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6198_%EC%98%A5%EC%83%81%EC%A0%95%EC%9B%90%EA%BE%B8%EB%AF%B8%EA%B8%B0.cpp)|스택||
 
   </div>
 </details>
