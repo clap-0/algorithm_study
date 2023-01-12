@@ -21,6 +21,7 @@
   |23/01/09|BOJ 1120|[문자열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1120_%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)|브루트포스||
   |23/01/10|BOJ 6198|[옥상 정원 꾸미기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6198_%EC%98%A5%EC%83%81%EC%A0%95%EC%9B%90%EA%BE%B8%EB%AF%B8%EA%B8%B0.cpp)|스택||
   |23/01/11|BOJ 25711|[인경산](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25711_%EC%9D%B8%EA%B2%BD%EC%82%B0.cpp)|누적합||
+  |23/01/12|BOJ 2418|[단어 격자](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2418_%EB%8B%A8%EC%96%B4%EA%B2%A9%EC%9E%90.cpp)|DP||
 
   </div>
 </details>
