@@ -23,6 +23,7 @@
   |23/01/11|BOJ 25711|[인경산](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25711_%EC%9D%B8%EA%B2%BD%EC%82%B0.cpp)|누적합||
   |23/01/12|BOJ 2418|[단어 격자](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2418_%EB%8B%A8%EC%96%B4%EA%B2%A9%EC%9E%90.cpp)|DP||
   |23/01/13|BOJ 1212|[8진수 2진수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1212_8%EC%A7%84%EC%88%982%EC%A7%84%EC%88%98.cpp)|구현||
+  |23/01/14|BOJ 1406|[에디터](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1406_%EC%97%90%EB%94%94%ED%84%B0.cpp)|스택||
 
   </div>
 </details>
