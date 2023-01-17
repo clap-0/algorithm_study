@@ -26,6 +26,7 @@
   |23/01/14|BOJ 1406|[에디터](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1406_%EC%97%90%EB%94%94%ED%84%B0.cpp)|스택||
   |23/01/15|BOJ 2942|[퍼거슨과 사과](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2942_%ED%8D%BC%EA%B1%B0%EC%8A%A8%EA%B3%BC%EC%82%AC%EA%B3%BC.cpp)|수학/유클리드호제법||
   |23/01/16|BOJ 12924|[멋진 쌍](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12924_%EB%A9%8B%EC%A7%84%EC%8C%8D.cpp)|수학/브루트포스||
+  |23/01/17|BOJ 1427|[소트인사이드](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1427_%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.cpp)|정렬||
 
   </div>
 </details>
