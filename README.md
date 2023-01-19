@@ -28,6 +28,7 @@
   |23/01/16|BOJ 12924|[멋진 쌍](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12924_%EB%A9%8B%EC%A7%84%EC%8C%8D.cpp)|수학/브루트포스||
   |23/01/17|BOJ 1427|[소트인사이드](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1427_%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.cpp)|정렬||
   |23/01/18|BOJ 1712|[손익분기점](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1712_%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90.cpp)|수학||
+  |23/01/19|BOJ 4056|[스-스-스도쿠](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/4056_%EC%8A%A4-%EC%8A%A4-%EC%8A%A4%EB%8F%84%EC%BF%A0.cpp)|백트래킹||
 
   </div>
 </details>
