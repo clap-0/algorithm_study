@@ -33,6 +33,7 @@
   |23/01/21|BOJ 1302|[베스트셀러](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1302_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC.cpp)|해시/정렬||
   |23/01/22|BOJ 11367|[Report Card Time](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11367_ReportCardTime.cpp)|구현||
   |23/01/23|BOJ 25314|[코딩은 체육과목 입니다](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25314_%EC%BD%94%EB%94%A9%EC%9D%80%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9%EC%9E%85%EB%8B%88%EB%8B%A4.cpp)|구현||
+  |23/01/24|BOJ 1477|[휴게소 세우기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1477_%ED%9C%B4%EA%B2%8C%EC%86%8C%EC%84%B8%EC%9A%B0%EA%B8%B0.cpp)|이분 탐색||
   
   </div>
 </details>
