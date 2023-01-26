@@ -35,6 +35,7 @@
   |23/01/23|BOJ 25314|[코딩은 체육과목 입니다](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25314_%EC%BD%94%EB%94%A9%EC%9D%80%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9%EC%9E%85%EB%8B%88%EB%8B%A4.cpp)|구현||
   |23/01/24|BOJ 1477|[휴게소 세우기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1477_%ED%9C%B4%EA%B2%8C%EC%86%8C%EC%84%B8%EC%9A%B0%EA%B8%B0.cpp)|이분 탐색||
   |23/01/25|BOJ 17951|[흩날리는 시험지 속에서 내 평점이 느껴진거야](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17951_%ED%9D%A9%EB%82%A0%EB%A6%AC%EB%8A%94%EC%8B%9C%ED%97%98%EC%A7%80%EC%86%8D%EC%97%90%EC%84%9C%EB%82%B4%ED%8F%89%EC%A0%90%EC%9D%B4%EB%8A%90%EA%BB%B4%EC%A7%84%EA%B1%B0%EC%95%BC.cpp)|이분 탐색||
+  |23/01/26|BOJ 18877|[Social Distancing](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/18877_SocialDistancing.cpp)|이분 탐색||
   
   </div>
 </details>
