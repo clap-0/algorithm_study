@@ -39,6 +39,7 @@
   |23/01/27|BOJ 10815|[숫자 카드](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10815_숫자카드.cpp)|이분 탐색||
   |23/01/28|BOJ 6236|[용돈 관리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6236_용돈관리.cpp)|이분 탐색/매개 변수 탐색||
   |23/01/29|BOJ 6209|[제자리 멀리뛰기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6209_제자리멀리뛰기.cpp)|이분 탐색/매개 변수 탐색||
+  |23/01/30|BOJ 2776|[암기왕](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2776_암기왕.cpp)|이분 탐색||
   
   </div>
 </details>
