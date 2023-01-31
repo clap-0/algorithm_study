@@ -40,6 +40,7 @@
   |23/01/28|BOJ 6236|[용돈 관리](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6236_용돈관리.cpp)|이분 탐색/매개 변수 탐색||
   |23/01/29|BOJ 6209|[제자리 멀리뛰기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/6209_제자리멀리뛰기.cpp)|이분 탐색/매개 변수 탐색||
   |23/01/30|BOJ 2776|[암기왕](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2776_암기왕.cpp)|이분 탐색||
+  |23/01/31|BOJ 3151|[합이 0](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3151_%ED%95%A9%EC%9D%B40.cpp)|두 포인터/정렬||
   
   </div>
 </details>
