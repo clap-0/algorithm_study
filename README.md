@@ -58,6 +58,7 @@
   |23/02/02|BOJ 20444|[색종이와 가위](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20444_색종이와가위.cpp)|이분 탐색/수학||
   |23/02/03|BOJ 4101|[크냐?](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/4101_크냐%3F.cpp)|구현||
   |23/02/04|BOJ 1110|[더하기 사이클](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1110_더하기사이클.cpp)|구현||
+  |23/02/05|BOJ 16564|[히오스 프로게이머](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16564_히오스프로게이머.cpp)|이분 탐색/매개 변수 탐색|UPDATE|
     
   </div>
 </details>
