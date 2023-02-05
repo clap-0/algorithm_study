@@ -1,30 +1,40 @@
 #include <iostream>
-#include <algorithm>
 using namespace std;
 
+int N, K;
 int X[1000000];
+
+bool isAchievable(int T)
+{
+  long long required = 0LL;
+  for (int i = 0; i < N; i++) {
+    required += max(0, T - X[i]);
+    if (required > K)
+      return false;
+  }
+  return true;
+}
 
 int main()
 {
   ios_base::sync_with_stdio(false);
   cin.tie(0); cout.tie(0);
 
-  int N, K;
   cin >> N >> K;
-  for(int i=0; i<N; i++) cin >> X[i];
-  
-  sort(X, X+N);
+  for (int i = 0; i < N; i++)
+    cin >> X[i];
+
   int ans;
-  long long lo=X[0], hi=lo+K;
-  while(lo <= hi) {
-    long long mid = (lo+hi)/2, cnt = 0;
-    int iter = 0;
-    while(mid > X[iter]) cnt += (mid - X[iter++]);
-    if(cnt > K) hi = mid-1;
-    else {
-      lo = mid + 1;
+  long long lo = 0, hi = 2e9;
+  while (lo <= hi) {
+    int mid = (lo + hi) / 2LL;
+    if (isAchievable(mid)) {
       ans = mid;
+      lo = mid + 1;
     }
+    else
+      hi = mid - 1;
   }
+
   cout << ans << '\n';
 }
