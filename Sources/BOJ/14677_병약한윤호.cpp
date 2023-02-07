@@ -31,6 +31,7 @@ int main()
       if (left > right)
         continue;
 
+      // iostream에서는 pills[left] == MEALS[(cnt+1)%3 안 됨
       if (pills[left] == MEALS[(cnt+1)%3] && !visited[left + 1][right]) {
         Q.push({left + 1, right});
         visited[left + 1][right] = true;
