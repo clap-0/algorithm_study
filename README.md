@@ -60,6 +60,7 @@
   |23/02/04|BOJ 1110|[더하기 사이클](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1110_더하기사이클.cpp)|구현||
   |23/02/05|BOJ 16564|[히오스 프로게이머](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16564_히오스프로게이머.cpp)|이분 탐색/매개 변수 탐색|UPDATE|
   |23/02/06|BOJ 10826|[피보나치 수 4](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10826_피보나치수4.py)|DP/큰 수 연산|Python|
+  |23/02/07|BOJ 14677|[병약한 윤호](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14677_병약한윤호.cpp)|BFS||
     
   </div>
 </details>
