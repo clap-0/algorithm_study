@@ -64,7 +64,7 @@
   |23/02/08|BOJ 15573|[채굴](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15573_채굴.cpp)|그리디/우선순위큐/그래프||
   |23/02/09|BOJ 1384|[메시지](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1384_메시지.cpp)|구현||
   |23/02/10|BOJ 27310|[:chino_shock:](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/27310_:chino_shock:.cpp)|구현/문자열||
-  
+  |23/02/11|BOJ 22342|[계산 로봇](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22342_계산로봇.cpp)|DP||
   
   </div>
 </details>
