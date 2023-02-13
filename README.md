@@ -66,6 +66,7 @@
   |23/02/10|BOJ 27310|[:chino_shock:](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/27310_:chino_shock:.cpp)|구현/문자열||
   |23/02/11|BOJ 22342|[계산 로봇](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22342_계산로봇.cpp)|DP||
   |23/02/12|BOJ 27467|[수학 퀴즈](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/27467_수학퀴즈.cpp)|수학||
+  |23/02/13|BOJ 9184|[신나는 함수 실행](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9184_신나는함수실행.cpp)|DP||
   
   </div>
 </details>
