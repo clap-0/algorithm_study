@@ -67,6 +67,7 @@
   |23/02/11|BOJ 22342|[계산 로봇](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/22342_계산로봇.cpp)|DP||
   |23/02/12|BOJ 27467|[수학 퀴즈](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/27467_수학퀴즈.cpp)|수학||
   |23/02/13|BOJ 9184|[신나는 함수 실행](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9184_신나는함수실행.cpp)|DP||
+  |23/02/14|BOJ 15991|[1, 2, 3 더하기 6](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15991_1,2,3더하기6.cpp)|DP||
   
   </div>
 </details>
