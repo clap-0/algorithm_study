@@ -71,7 +71,8 @@
   |23/02/15|BOJ 25194|[결전의 금요일](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25194_결전의금요일.cpp)|DP||
   |23/02/16|BOJ 10164|[격자상의 경로](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10164_격자상의경로.cpp)|DP||
   |23/02/17|BOJ 15990|[1, 2, 3 더하기 5](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15990_1%2C2%2C3더하기5.cpp)|DP||
-  
+  |23/02/19|BOJ 11060|[점프 점프](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11060_점프점프.cpp)|DP||
+
   </div>
 </details>
 
