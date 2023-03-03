@@ -78,7 +78,7 @@
 </details>
 
 ---
-<!--
+
 ### 2023/03
 <details value="Details">
   <summary>Details</summary>
@@ -86,12 +86,13 @@
     
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
+  |23/03/03|BOJ 3046|[R2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3046_R2.cpp)|수학/구현||
   
   </div>
 </details>
 
 ---
-
+<!--
 ### 2023/04
 <details value="Details">
   <summary>Details</summary>
