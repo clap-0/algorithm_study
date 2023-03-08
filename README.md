@@ -89,6 +89,8 @@
   |23/03/03|BOJ 3046|[R2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3046_R2.cpp)|수학/구현||
   |23/03/06|BOJ 1543|[문서 검색](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1543_문서검색.cpp)|브루트포스/문자열||
   |23/03/07|BOJ 2738|[행렬 덧셈](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2738_행렬덧셈.cpp)|구현||
+  |23/03/08|BOJ 20955|[민서의 응급 수술](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20955_민서의응급수술.cpp)|분리집합||
+  
   </div>
 </details>
 
