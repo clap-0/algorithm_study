@@ -91,6 +91,7 @@
   |23/03/07|BOJ 2738|[행렬 덧셈](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2738_행렬덧셈.cpp)|구현||
   |23/03/08|BOJ 20955|[민서의 응급 수술](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20955_민서의응급수술.cpp)|분리집합||
   |23/03/09|BOJ 24230|[트리 색칠하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/24230_트리색칠하기.cpp)|DFS/트리||
+  |23/03/10|BOJ 1595|[북쪽나라의 도로](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1595_북쪽나라의도로.cpp)|DFS/트리||
   
   </div>
 </details>
