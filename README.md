@@ -92,6 +92,7 @@
   |23/03/08|BOJ 20955|[민서의 응급 수술](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20955_민서의응급수술.cpp)|분리집합||
   |23/03/09|BOJ 24230|[트리 색칠하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/24230_트리색칠하기.cpp)|DFS/트리||
   |23/03/10|BOJ 1595|[북쪽나라의 도로](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1595_북쪽나라의도로.cpp)|DFS/트리||
+  |23/03/12|BOJ 15900|[나무 탈출](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15900_나무탈출.cpp)|DFS/트리||
   
   </div>
 </details>
