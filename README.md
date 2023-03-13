@@ -93,7 +93,7 @@
   |23/03/09|BOJ 24230|[트리 색칠하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/24230_트리색칠하기.cpp)|DFS/트리||
   |23/03/10|BOJ 1595|[북쪽나라의 도로](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1595_북쪽나라의도로.cpp)|DFS/트리||
   |23/03/12|BOJ 15900|[나무 탈출](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15900_나무탈출.cpp)|DFS/트리||
-  |23/03/14|BOJ 1476|[날짜 계산](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1476_날짜계산.cpp|수학/구현||
+  |23/03/14|BOJ 1476|[날짜 계산](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1476_날짜계산.cpp)|수학/구현||
 
   </div>
 </details>
