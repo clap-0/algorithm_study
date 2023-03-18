@@ -96,6 +96,7 @@
   |23/03/14|BOJ 1476|[날짜 계산](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1476_날짜계산.cpp)|수학/구현||
   |23/03/15|BOJ 5938|[Daisy Chains in the Field](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/5938_DaisyChainsintheField.cpp)|DFS||
   |23/03/17|BOJ 1327|[소트 게임](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1327_소트게임.cpp)|BFS/해시맵||
+  |23/03/18|BOJ 14171|[Cities and States](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14171_CitiesandStates.cpp)|해싱||
 
   </div>
 </details>
