@@ -99,6 +99,7 @@
   |23/03/18|BOJ 14171|[Cities and States](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14171_CitiesandStates.cpp)|해싱||
   |23/03/19|BOJ 23057|[도전 숫자왕](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/23057_도전숫자왕.cpp)|브루트포스/해시셋/비트마스킹||
   |23/03/20|BOJ 8393|[합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/8393_합.cpp)|수학||
+  |23/03/21|BOJ 14248|[점프 점프](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14248_점프점프.cpp)|DFS||
 
   </div>
 </details>
