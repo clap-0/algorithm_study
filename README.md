@@ -102,6 +102,7 @@
   |23/03/21|BOJ 14248|[점프 점프](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14248_점프점프.cpp)|DFS||
   |23/03/22|BOJ 13565|[침투](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13565_침투.cpp)|DFS||
   |23/03/23|BOJ 27314|[러키☆한별](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/27314_러키☆한별.cpp)|BFS||
+  |23/03/24|BOJ 12018|[Yonsei TOTO](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12018_YonseiTOTO.cpp)|그리디/정렬||
 
   </div>
 </details>
