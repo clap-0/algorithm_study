@@ -103,6 +103,7 @@
   |23/03/22|BOJ 13565|[침투](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/13565_침투.cpp)|DFS||
   |23/03/23|BOJ 27314|[러키☆한별](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/27314_러키☆한별.cpp)|BFS||
   |23/03/24|BOJ 12018|[Yonsei TOTO](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12018_YonseiTOTO.cpp)|그리디/정렬||
+  |23/03/25|BOJ 2872|[우리집엔 도서관이 있어](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2872_우리집엔도서관이있어.cpp)|그리디||
 
   </div>
 </details>
