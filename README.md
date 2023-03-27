@@ -105,6 +105,7 @@
   |23/03/24|BOJ 12018|[Yonsei TOTO](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/12018_YonseiTOTO.cpp)|그리디/정렬||
   |23/03/25|BOJ 2872|[우리집엔 도서관이 있어](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2872_우리집엔도서관이있어.cpp)|그리디||
   |23/03/26|BOJ 2847|[게임을 만든 동준이](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2847_게임을만든동준이.cpp)|그리디||
+  |23/03/27|BOJ 15881|[Pen Pineapple Apple Pen](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15881_PenPineappleApplePen.cpp)|그리디||
 
   </div>
 </details>
