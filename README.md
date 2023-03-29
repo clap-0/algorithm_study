@@ -107,6 +107,7 @@
   |23/03/26|BOJ 2847|[게임을 만든 동준이](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2847_게임을만든동준이.cpp)|그리디||
   |23/03/27|BOJ 15881|[Pen Pineapple Apple Pen](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15881_PenPineappleApplePen.cpp)|그리디||
   |23/03/28|BOJ 2885|[초콜릿 식사](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2885_초콜릿식사.cpp)|그리디/수학/비트마스킹||
+  |23/03/29|BOJ 5545|[최고의 피자](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/5545_최고의피자.cpp)|그리디/정렬||
 
   </div>
 </details>
