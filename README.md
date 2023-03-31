@@ -109,6 +109,7 @@
   |23/03/28|BOJ 2885|[초콜릿 식사](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2885_초콜릿식사.cpp)|그리디/수학/비트마스킹||
   |23/03/29|BOJ 5545|[최고의 피자](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/5545_최고의피자.cpp)|그리디/정렬||
   |23/03/30|BOJ 16112|[5차 전직](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16112_5차전직.cpp)|그리디/정렬||
+  |23/03/31|BOJ 25418|[정수 a를 k로 만들기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25418_정수a를k로만들기.cpp)|그리디||
 
   </div>
 </details>
