@@ -124,6 +124,7 @@
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
   |23/04/01|BOJ 20365|[블로그2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20365_블로그2.cpp)|그리디/문자열||
+  |23/04/02|BOJ 17451|[평행 우주](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17451_평행우주.cpp)|그리디||
   
   </div>
 </details>
