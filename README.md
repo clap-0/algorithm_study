@@ -127,6 +127,7 @@
   |23/04/02|BOJ 17451|[평행 우주](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17451_평행우주.cpp)|그리디||
   |23/04/03|BOJ 20186|[수 고르기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20186_수고르기.cpp)|그리디/정렬||
   |23/04/04|BOJ 9440|[숫자 더하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/9440_숫자더하기.cpp)|그리디/정렬||
+  |23/04/05|BOJ 2790|[F7](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2790_F7.cpp)|그리디/정렬||
   
   </div>
 </details>
