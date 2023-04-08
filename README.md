@@ -130,6 +130,7 @@
   |23/04/05|BOJ 2790|[F7](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2790_F7.cpp)|그리디/정렬||
   |23/04/06|BOJ 20310|[타노스](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20310_타노스.cpp)|그리디||
   |23/04/07|BOJ 3213|[피자](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3213_피자.cpp)|그리디||
+  |23/04/08|BOJ 16198|[에너지 모으기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16198_에너지모으기.cpp)|브루트포스||
   
   </div>
 </details>
