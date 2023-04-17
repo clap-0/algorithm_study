@@ -134,6 +134,7 @@
   |23/04/09|BOJ 14720|[우유 축제](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14720_우유축제.cpp)|구현||
   |23/04/10|BOJ 21313|[문어](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/21313_%EB%AC%B8%EC%96%B4.cpp)|구현||
   |23/04/16|BOJ 25496|[장신구 명장 임스](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25496_장신구명장임스.cpp)|그리디||
+  |23/04/17|BOJ 1969|[DNA](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1969_DNA.cpp)|그리디/구현||
   
   </div>
 </details>
