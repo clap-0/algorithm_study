@@ -137,6 +137,7 @@
   |23/04/17|BOJ 1969|[DNA](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1969_DNA.cpp)|그리디/구현||
   |23/04/18|BOJ 20117|[호반우 상인의 이상한 품질 계산법](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20117_호반우상인의이상한품질계산법.cpp)|그리디/정렬||
   |23/04/19|BOJ 2697|[다음수 구하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2697_다음수구하기.cpp)|그리디||
+  |23/04/20|BOJ 27446|[랩실에서 잘 자요](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/27446_랩실에서잘자요.cpp)|그리디||
   
   </div>
 </details>
