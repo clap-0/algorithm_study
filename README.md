@@ -138,7 +138,8 @@
   |23/04/18|BOJ 20117|[호반우 상인의 이상한 품질 계산법](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20117_호반우상인의이상한품질계산법.cpp)|그리디/정렬||
   |23/04/19|BOJ 2697|[다음수 구하기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2697_다음수구하기.cpp)|그리디||
   |23/04/20|BOJ 27446|[랩실에서 잘 자요](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/27446_랩실에서잘자요.cpp)|그리디||
-  
+  |23/04/21|BOJ 16571|[알파 틱택토](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16571_%EC%95%8C%ED%8C%8C%ED%8B%B1%ED%83%9D%ED%86%A0.cpp)|백트래킹||
+
   </div>
 </details>
 
