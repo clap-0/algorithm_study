@@ -140,6 +140,7 @@
   |23/04/20|BOJ 27446|[랩실에서 잘 자요](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/27446_랩실에서잘자요.cpp)|그리디||
   |23/04/21|BOJ 16571|[알파 틱택토](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/16571_%EC%95%8C%ED%8C%8C%ED%8B%B1%ED%83%9D%ED%86%A0.cpp)|백트래킹||
   |23/04/22|BOJ 15482|[한글 LCS](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/15482_한글LCS.cpp)|DP/문자열|UTF-8 입력 처리|
+  |23/04/23|BOJ 17485|[진우의 달 여행 (Large)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17485_진우의달여행(Large).cpp)|DP||
 
   </div>
 </details>
