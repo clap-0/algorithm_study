@@ -143,6 +143,8 @@
   |23/04/23|BOJ 17485|[진우의 달 여행 (Large)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17485_진우의달여행(Large).cpp)|DP||
   |23/04/26|BOJ 11034|[캥거루 세마리2](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/11034_캥거루세마리2.cpp)|수학||
   |23/04/27|BOJ 14606|[피자 (Small)](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/14606_피자(Small).cpp)|DP||
+  |23/04/29|BOJ 10807|[개수 세기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/10807_개수세기.cpp)|구현||
+  
 
   </div>
 </details>
