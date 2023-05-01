@@ -150,7 +150,7 @@
 </details>
 
 ---
-<!--
+
 ### 2023/05
 <details value="Details">
   <summary>Details</summary>
@@ -158,11 +158,13 @@
     
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
+  |23/05/01|BOJ 2775|[부녀회장이 될테야](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2775_부녀회장이될테야.cpp)|DP||
   
   </div>
 </details>
 
 ---
+<!--
 
 ### 2023/06
 <details value="Details">
