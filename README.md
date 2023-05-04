@@ -161,6 +161,8 @@
   |23/05/01|BOJ 2775|[부녀회장이 될테야](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2775_부녀회장이될테야.cpp)|DP||
   |23/05/02|BOJ 2744|[대소문자 바꾸기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2744_대소문자바꾸기.cpp)|문자열||
   |23/05/03|BOJ 2914|[저작권](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2914_저작권.cpp)|수학/구현||
+  |23/05/04|BOJ 2023|[신기한 소수](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2023_신기한소수.cpp)|백트래킹/소수판별||
+  
   
   </div>
 </details>
