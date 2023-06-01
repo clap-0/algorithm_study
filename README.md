@@ -168,7 +168,7 @@
 </details>
 
 ---
-<!--
+
 
 ### 2023/06
 <details value="Details">
@@ -177,12 +177,13 @@
     
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
-  
+  |23/06/01|BOJ 1059|[좋은 구간](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1059_좋은구간.cpp)|수학/정렬||
+    
   </div>
 </details>
 
 ---
-
+<!--
 ### 2023/07
 <details value="Details">
   <summary>Details</summary>
