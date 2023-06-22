@@ -178,7 +178,9 @@
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
   |23/06/01|BOJ 1059|[좋은 구간](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1059_좋은구간.cpp)|수학/정렬||
-    
+  |23/06/22|BOJ 1500|[최대 곱](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1500_최대곱.cpp)|수학||
+
+
   </div>
 </details>
 
