@@ -185,7 +185,6 @@
 </details>
 
 ---
-<!--
 ### 2023/07
 <details value="Details">
   <summary>Details</summary>
@@ -193,12 +192,13 @@
     
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
+  |23/07/06|BOJ 1254|[팰린드롬 만들기](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1254_팰린드롬만들기.cpp)|브루트포스/문자열||
   
   </div>
 </details>
 
 ---
-
+<!--
 ### 2023/08
 <details value="Details">
   <summary>Details</summary>
