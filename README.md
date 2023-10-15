@@ -200,32 +200,6 @@
 </details>
 
 ---
-<!--
-### 2023/08
-<details value="Details">
-  <summary>Details</summary>
-  <div markdown="1">
-    
-  |Date|#|Title|Solution|Remarks|
-  |:--:|:--:|:--:|:--:|:--:|
-  
-  </div>
-</details>
-
----
-
-### 2023/09
-<details value="Details">
-  <summary>Details</summary>
-  <div markdown="1">
-    
-  |Date|#|Title|Solution|Remarks|
-  |:--:|:--:|:--:|:--:|:--:|
-  
-  </div>
-</details>
-
----
 
 ### 2023/10
 <details value="Details">
@@ -234,12 +208,13 @@
     
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
+  |23/10/15|BOJ 1469|[숌 사이 수열](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/1469_숌사이수열.cpp)|브루트포스/백트래킹||
   
   </div>
 </details>
 
 ---
-
+<!--
 ### 2023/11
 <details value="Details">
   <summary>Details</summary>
