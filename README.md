@@ -214,7 +214,6 @@
 </details>
 
 ---
-<!--
 ### 2023/11
 <details value="Details">
   <summary>Details</summary>
@@ -222,12 +221,13 @@
     
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
+  |23/11/04|BOJ 25758|[유전자 조합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25758_유전자조합.cpp)|브루트포스||
   
   </div>
 </details>
 
 ---
-
+<!--
 ### 2023/12
 <details value="Details">
   <summary>Details</summary>
