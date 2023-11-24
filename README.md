@@ -222,6 +222,7 @@
   |Date|#|Title|Solution|Remarks|
   |:--:|:--:|:--:|:--:|:--:|
   |23/11/04|BOJ 25758|[유전자 조합](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/25758_유전자조합.cpp)|브루트포스||
+  |23/11/24|PROGRAMMERS|[게임 맵 최단거리](https://github.com/clap-0/algorithm_study/blob/main/Sources/Programmers/게임맵최단거리.cpp)|BFS||
   
   </div>
 </details>
