@@ -15,6 +15,7 @@
   |2024-07-06|[3758](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/3758_KCPC.cpp)|KCPC|구현||
   |2024-07-07|[2607](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/2607_비슷한단어.cpp)|비슷한 단어|구현/문자열||
   |2024-07-11|[20922](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/20922_겹치는건싫어.cpp)|겹치는 건 싫어|두 포인터||
+  |2024-07-18|[17615](https://github.com/clap-0/algorithm_study/blob/main/Sources/BOJ/17615_볼모으기.cpp)|볼 모으기|그리디|*UPDATED*|
 
   </div>
 </details>
